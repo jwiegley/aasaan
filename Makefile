@@ -10,4 +10,5 @@ asbaab.zip:
 	zip -r asbaab.zip setup.py \
 		Makefile arabic.cpp arabic.h \
 		chaap.py \
-		steingass.txt
+		haftvadi.xml \
+		$(HOME)/doc/books/steingass.txt
