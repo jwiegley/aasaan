@@ -43,7 +43,7 @@ static std::vector<arabic_mode_t> mode_stack;
 #define push(out, tok, flags) (out).push_back(arabic_letter((tok), (flags)))
 
 bool parse_aasaan(std::istream& in, std::list<arabic_letter>& out,
-		  arabic_mode_t mode, bool only_one)
+		  arabic_mode_t mode, bool only_one = false)
 {
   char c;
   unsigned int start_size = out.size();
@@ -1456,6 +1456,315 @@ void output_arabtex(std::list<arabic_letter>& in, std::ostream& out,
   }
 }
 
+bool output_unicode_letter(std::list<arabic_letter>::iterator letter,
+			   std::list<arabic_letter>::iterator end,
+			   std::ostream& out, arabic_mode_t mode,
+			   bool quiet_shadda)
+{
+  switch (letter->token) {
+  case TOK_ALIF:
+    if (letter->flags & TF_VOWEL)
+      out << "&#1575;";
+    break;
+
+  case TOK_BIH:
+    out << "&#1576;";
+    break;
+
+  case TOK_TIH:
+    out << "&#1578;";
+    break;
+
+  case TOK_THIH:
+    out << "&#1579;";
+    break;
+
+  case TOK_JIIM:
+    out << "&#1580;";
+    break;
+
+  case TOK_HIH_HUTII:
+    out << "&#1581;";
+    break;
+
+  case TOK_KHIH:
+    out << "&#1582;";
+    break;
+
+  case TOK_SIIN:
+    out << "&#1587;";
+    break;
+
+  case TOK_SHIIN:
+    out << "&#1588;";
+    break;
+
+  case TOK_DAAL:
+    out << "&#1583;";
+    break;
+
+  case TOK_DHAAL:
+    out << "&#1584;";
+    break;
+
+  case TOK_RIH:
+    out << "&#1585;";
+    break;
+
+  case TOK_ZIH:
+    out << "&#1586;";
+    break;
+
+  case TOK_SAAD:
+    out << "&#1589;";
+    break;
+
+  case TOK_THAAD:
+    out << "&#1590;";
+    break;
+
+  case TOK_TAYN:
+    out << "&#1591;";
+    break;
+
+  case TOK_DTHAYN:
+    out << "&#1592;";
+    break;
+
+  case TOK_AYN:
+    out << "&#1593;";
+    break;
+
+  case TOK_GHAYN:
+    out << "&#1594;";
+    break;
+
+  case TOK_FIH:
+    out << "&#1601;";
+    break;
+
+  case TOK_QAAF:
+    out << "&#1602;";
+    break;
+
+  case TOK_KAAF:
+    out << "&#1705;";
+    break;
+
+  case TOK_LAAM:
+    out << "&#1604;";
+    break;
+
+  case TOK_MIIM:
+    out << "&#1605;";
+    break;
+
+  case TOK_NUUN:
+    out << "&#1606;";
+    break;
+
+  case TOK_WAAW:
+    // If this waaw is followed by a silent alif, then the
+    // encoding has already been done during the handling of the
+    // preceding letter's DHAMMA, below
+	
+    if (! (letter->flags & TF_SILENT_ALIF))
+      out << "&#1608;";
+    break;
+
+  case TOK_YIH:
+    out << "&#1610;";
+    break;
+
+  case TOK_ALIF_MAQSURA:
+    out << "&#1609;";
+    break;
+
+  case TOK_HIH:
+    if (letter->flags & TF_SILENT)
+      out << "&#1607;";
+    else
+      out << "&#1607;";
+    break;
+
+  case TOK_TIH_MARBUTA:
+    out << "&#1577;";
+    break;
+
+  case TOK_HAMZA:
+    out << "";
+    break;
+
+
+    // Persian letters
+
+  case TOK_PIH:
+    out << "&#1662;";
+    break;
+
+  case TOK_CHIH:
+    out << "&#1670;";
+    break;
+
+  case TOK_ZHIH:
+    out << "&#1688;";
+    break;
+
+  case TOK_GAAF:
+    out << "&#1711;";
+    break;
+
+  default:
+    return false;
+  }
+
+  if (letter->flags & TF_SHADDA && quiet_shadda)
+    return true;
+
+  std::list<arabic_letter>::iterator next = letter;
+  next++;
+
+#if 0
+  if (letter->flags & TF_TANWEEN)
+    out << '"';
+
+  if (letter->flags & TF_FATHA) {
+    out << 'a';
+  }
+  else if (letter->flags & TF_KASRA) {
+    if (next != end && next->flags & TF_DIPHTHONG)
+      out << 'e';
+    else
+      out << 'i';
+  }
+  else if (letter->flags & TF_DHAMMA) {
+    if (next != end && next->flags & TF_DIPHTHONG)
+      out << 'o';
+    else if (next->flags & TF_SILENT_ALIF)
+      out << "UA";
+    else
+      out << 'u';
+  }
+  else if (letter->flags & TF_DEFECTIVE_ALIF) {
+    out << "_a";
+  }
+  else if (letter->flags & TF_IZAAFIH) {
+    if (letter->flags & TF_VOWEL)
+      out << "y-i";
+    else
+      out << "-i";
+  }
+
+  if (letter->flags & TF_TANWEEN)
+    out << "N";
+#endif
+
+  return true;
+}
+
+void output_unicode(std::list<arabic_letter>& in, std::ostream& out,
+		    arabic_mode_t mode)
+{
+  std::list<arabic_letter>::iterator letter = in.begin();
+
+  while (letter != in.end()) {
+    if (output_unicode_letter(letter, in.end(), out, mode, true)) {
+      if (letter->flags & TF_SHADDA)
+	output_unicode_letter(letter, in.end(), out, mode, false);
+    }
+    else {
+      switch (letter->token) {
+      case TOK_PREFIX_AL:
+	out << "&#1575;&#1604;";
+	break;
+
+      case TOK_PREFIX_BI:
+	out << "&#1576;";
+	break;
+
+      case TOK_PREFIX_MII:
+	out << "&#1605;&#1610; ";
+	break;
+
+      case TOK_SUFFIX_RAA:
+	out << " &#1585;&#1575;";
+	break;
+
+      case TOK_SUFFIX_HAA:
+	out << "&#1607;&#1575;";
+	break;
+
+      case TOK_SUFFIX_II:
+	out << "&#1610;";
+	break;
+
+
+      case TOK_SPACE:
+	out << ' ';
+	break;
+
+      case TOK_PERIOD:
+	out << '.';
+	break;
+
+      case TOK_COMMA:
+	out << ',';
+	break;
+
+      case TOK_SEMICOLON:
+	out << ';';
+	break;
+
+      case TOK_COLON:
+	out << ':';
+	break;
+
+      case TOK_EXCLAM:
+	out << '!';
+	break;
+
+      case TOK_QUERY:
+	out << '?';
+	break;
+
+      case TOK_PARAGRAPH:
+	out << std::endl << std::endl;
+	break;
+
+
+      case TOK_SPACER:
+	out << '-';
+	break;
+
+
+      case TOK_LEFT_QUOTE:
+      case TOK_RIGHT_QUOTE:
+	out << "&quot;";
+	break;
+
+
+#ifdef MODE_STACK
+      case TOK_PUSH_MODE:
+      case TOK_POP_MODE:
+	break;
+#endif // MODE_STACK
+
+
+      case TOK_UNKNOWN:
+	out << (char)letter->flags;
+	break;
+
+      default:
+	std::cerr << "output_unicode: unhandled token "
+		  << letter->token << std::endl;
+	break;
+      }
+    }
+
+    letter++;
+  }
+}
+
 static inline void output_string(std::list<arabic_letter>::iterator letter,
 				 std::ostream& out, const std::string& str,
 				 bool maybe_add_shadda = false)
@@ -1972,4 +2281,50 @@ extern "C" void initarabic()
   PyModule_AddIntConstant(module, "TALATTOF", 3);
 }
 
-#endif
+#endif // PYTHON_MODULE
+
+#ifdef STANDALONE
+
+int main(int argc, char *argv[])
+{
+  int argi = 1;
+  if (argc == argi) {
+    std::cerr << "usage: arabic [--arabic|--persian] --html|--latex|--house "
+	      << std::endl;
+    return 1;
+  }
+
+  arabic_mode_t mode = MODE_ARABIC;
+  std::string option = argv[argi];
+  if (option == "--arabic") {
+    mode = MODE_ARABIC;
+    argi++;
+  }
+  else if (option == "--persian") {
+    mode = MODE_PERSIAN;
+    argi++;
+  }
+
+  output_func_t renderer;
+  option = argv[argi];
+  if (option == "--unicode") {
+    renderer = output_unicode;
+    argi++;
+  }
+  else if (option == "--latex") {
+    renderer = output_arabtex;
+    argi++;
+  }
+  else if (option == "--latex-house") {
+    renderer = output_latex_house;
+    argi++;
+  }
+    
+  std::list<arabic_letter> tokens;
+  parse_aasaan(std::cin, tokens, mode);
+  (*renderer)(tokens, std::cout, mode);
+
+  return 0;
+}
+
+#endif // STANDALONE

@@ -1,4 +1,9 @@
-all: arabic.so
+CFLAGS = -g -DSTANDALONE
+
+all: arabic arabic.so
+
+arabic: arabic.cpp
+	g++ $(CFLAGS) -o $@ $<
 
 arabic.so: arabic.cpp
 	python setup.py build_ext
