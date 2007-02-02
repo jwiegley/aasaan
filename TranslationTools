@@ -1,0 +1,236 @@
+#title Tools for publishing transliterated Persian/Arabic texts
+
+Summary of tools available:
+
+  - [[#aasaan][aasaan]]: Transliteration scheme for accurate and easy
+    encoding of Persian/Arabic texts.
+  - [[#chaap][chaap]]: Tool to publish texts entered in aasaan format to
+    HTML/Unicode or ArabTeX.
+  - [[#lughat][lughat]]: Tool to aid in the creation and printing of
+    glossaries.
+  - [[#justan][justan]]: Tool for searching Steingass.
+  - [[#steingass][steingass]]: An ASCII copy of Steingass using aasaan
+    encoding, and in the lughat format.
+
+You may download this collection of tools as a [[asbaab.zip][ZIP file]].
+
+You will need a Python interpretor and a C++ compiler to use these
+scripts.  There is a free, nicely packaged version of Python at
+[[http://activestate.com/Products/ActivePython/][ActiveState]].  They
+have versions for most platforms.
+
+NOTE: All of these tools are newly created, and may still have kinks.
+Please e-mail me with any problems that you find, or send suggestions
+for improvement to johnw@gnu.org.  Thank you!
+
+* Aasaan transliteration
+
+#aasaan
+The *Aasaan* (easy, convenient) style of Persian/Arabic
+transliteration is based on attempts to find a readable, easily edited
+source format that is unambiguous in all cases and sufficient to
+faithfully reproduce the original Arabic/Persian text.
+
+This style borrows from the following sources:
+
+  - Bahá'í ``House Style'', as used by the Guardian and printed in
+    Bahá'í books.  By itself it is not sufficient because: It is
+    difficult to represent in non-Unicode alphabets, and it is
+    ambiguous in several cases (tanviin, for example).
+  
+  - ArabTeX encoding.  This format is very exact, but somewhat
+    laborious and difficult to proofread/edit.
+  
+  - Tarjuman postings.  There are several people who post informally
+    to Tarjuman using a style that makes for easy reading, though it
+    is also not exact enough in all cases.  *Aasaan* aims at retaining
+    the readability and natural form of this style, while increasing
+    its accuracy.
+
+** Transliteration rules
+
+Here are the rules for *Aasaan* transliteration:
+
+  Item | Coding | Example
+  Consonants | b p t j d s r z ` f q k g l m n v y h | bad
+  ``Two letter'' consonants | th ch kh dh sh zh gh | shuq
+  Breaking ``two letter'' | (separate with =_=) | <verbatim>mas_hat</verbatim>
+  ``Dotted'' consonants | .h .s .d .t .z | .sub.h
+  Carrier alif | (from context) | alif
+  alif baa madda | (from context) | aathar
+  Defective alif | <verbatim>_a</verbatim> | <verbatim>al-ll_ah</verbatim>
+  Vowels | aa ii uu | iiqaan
+  Diphthong vowels | ey uw | kheyr, khuwd
+  Silent vaav-alif | waa wuu wii | khwaahar
+  Silent final vaav | o | to, do
+  Non-silent final hih | H | diH
+  Explicit hamzih | ' | aabaa', bahaa'ii (different from bahaa-ii, although both are printed the same)
+  tanviin | N | nisbataN
+  tanviin (force alif) | NA | shey'aNA
+  tah marbutah | T | nisbaTaN
+  alif maqsuurah | Y | muusY
+  tashdiid | (double the consonant) | mubashshir
+  tashdiid for `eyn | ~` | tasha~`aba
+  izafih | -i | khaanih-i, buu-i, diH-i (yih or hamzih is generated as needed)
+  Non-specific suffix | -ii | jaa-ii, duust-ii
+  Definite object suffix raa | -raa | kitaab-raa (spacing before raa is reduced)
+  Prefix bih | bi- | bi-va.tan, bi-ism (alif is retained if needed)
+  Prefix mii | mii mii- | miiraftam, mii-iistaadam (mii- separates the prefix)
+  Plural suffixes | -haa -aan | baagh-haa, duust-aan
+  Copula suffixes | -am -ii -ast -iim -iid -and | tashnih-am (separating alef is generated if needed)
+  Possessive suffixes | -at -ash | dard-at, .talab-ash
+  Arabic al- | al- (if a doubled letter, use as-, az-, al-l, etc.) | ar-ra.hm_an, al-.hukm
+  Quotes | <verbatim>`` ''</verbatim> | <verbatim>``hal min maziid''</verbatim>
+
+** C++ conversion module
+
+In order to make this style more useful, a C++ module (=aasaan.cpp=)
+is offered that can translate this style into any of the following
+output formats:
+
+  - HTML Unicode 2.0
+  - ArabTeX
+  - HTML transliterated (in Bahá'í House Style)
+  - LaTeX transliterated (in Bahá'í House Style)
+
+* Chaap publishing tool
+
+#chaap
+To ease the publication and management of translations, I have written
+a publishing tool called *chaap*.  It uses a very simple input format,
+and from this format can produce any of the following forms of output:
+
+  - HTML or LaTeX
+  - Original text or transliteration
+  - Bilingual or mono-lingual
+
+** Input format
+
+The input format is very basic, even if the technical description
+sounds complex:
+
+  1. Alternate verses in the original language (encoded in *aasaan*
+     style), with the translation.
+  2. At least one line of the original verse must occur in column one
+     (that is, have no preceding whitespace).
+  3. Conversely, every line of the translation must begin with
+     whitespace.
+  4. The original verse and the translation should be separated by a
+     blank line.
+  5. Separate these verse/translation pairs with a blank line, except
+     when they occur in different paragraphs, when they should be
+     separated with two blank lines.
+  6. Intra-verse whitespace is allowed, for the sake of readability.
+  7. For poetic verse, precede the text with a greater-than sign,
+     followed by at least one space.
+  8. For Persian/Arabic poetry, if you wish each line to be stretched to
+     the same width, specific the width before the greater-than
+     character.  Example:
+
+<example>
+2in> kufr-i kaafir-raa va diin-i diindaar-raa
+2in> dharrih-i dard-at dil-i `a.t.taar-raa
+</example>
+
+** Example text suitable as input to chaap
+
+From the *Seven Valleys*:
+
+<example>
+va ba`d
+maraatib-i seyr-i saalikaan-raa
+az maskan-i khaakii
+  bi-va.tan-i il_ahii
+haft rutbih mu`ayan namuudih-and
+
+    And further
+    The stages that mark the wayfarer's journey
+    from the abode of dust
+      to the heavenly homeland
+    are said to be seven.
+
+chunaanchih ba`.d-ii haft vaadii
+  va ba`.d-ii haft shahr
+dhikr kardih-and
+
+    Some have called
+    these Seven Valleys,
+      and others, Seven Cities.
+
+va guftih-and kih saalik
+  taa az nafs hijrat nanamaayad
+  va iin asfaar-raa .tey nakunad
+bi-ba.hr-i qurb va vi.saal vaarid nashavad
+va az khamr-i biimithaal nachishad
+
+    And they say that until the wayfarer
+      taketh leave of self,
+      and traverseth these stages,
+    he shall never reach to the ocean of nearness and union,
+    nor drink of the peerless wine.
+</example>
+
+** Example result:
+
+Here is what the various output formats look like, using the above
+text as input:
+
+  - [[sample.html][HTML using Unicode (bilingual)]]
+  - [[samplelit.html][HTML transliterated (bilingual)]]
+  - [[sample.pdf][ArabTeX (bilingual)]]
+  - [[samplelit.pdf][LaTeX transliterated (bilingual)]]
+  - [[sampleo.html][HTML using Unicode (mono-lingual)]]
+  - [[samplelito.html][HTML transliterated (mono-lingual)]]
+  - [[sampleo.pdf][ArabTeX (mono-lingual)]]
+  - [[samplelito.pdf][LaTeX transliterated (mono-lingual)]]
+
+* Seven Valleys transcription
+
+I have been working to provide a complete transcription of the *Seven
+Valleys* in a format usable by the *chaap* tool.  Persian friends have
+been helping provide vowellization.  At the same time, I have been
+compiling an extracted glossary from Steingass (see below) of all the
+words used in that text.
+
+* Lughat glossary publishing tool
+
+#lughat
+To aid in the production of glossaries to accompany a text, I've
+written a small script called *lughat*, which reads in files composed
+of glossary definitions, and then formats them into either LaTeX
+or HTML output, with appropriate reference links, etc.
+
+** Glossary file format
+
+See the documentation at the top of the =lughat= script for
+information on the required glossary format.  Note that the Steingass
+ASCII dictionary provided in the set of tools is also in this format.
+
+* Justan dictionary search tool
+
+#justan
+The Python script "justan.py" can be used to quickly and easily search
+the Steingass dictionary (see below).  Simply run it, and then type in
+successive search terms.  Once the Index has been built/loaded,
+searches happen very fast.
+
+* Steingass Persian dictionary in electronic format
+
+#steingass
+Thanks to the East Asian dictionary project making the Steingass text
+available using Unicode transliteration encoding, I was able to
+download and convert the Steingass dictionary into *lughat* format,
+using *aasaan* transliteration.
+
+This makes it possible to republish the entire dictionary as a PDF
+file, using vowellized Arabic script throughout, rather than the
+combination of unvowellized script and transliterated alphabet that
+the current print editions use.
+
+* Updates
+
+2002.08.29 | The collection of tools is now distributed as a ZIP file
+2002.08.29 | Many improvements to chaap/lughat/justan and steingass.txt
+2002.08.27 | The [[#justan][justan]] tool now supports approximate and phonetic searching
+2002.08.26 | Redid Steingass ASCII file; wrote [[#justan][justan]] tool for searching it
+2002.08.24 | Improved Steingass transliteration (figured out what more of the codes mean)

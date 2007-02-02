@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.pdf
+*.tex
+arabic
+asbaab.zip
+build
+obsolete
+test.*

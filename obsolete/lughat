@@ -1,0 +1,172 @@
+#!/usr/bin/env perl
+
+# lughat (vocalubary), version 1.2
+#   by John Wiegley <johnw@gnu.org>
+#
+# Use "perl lughat --help" for help on script usage and options.
+#
+# This script takes an input file of definitions, and produces the
+# result in either HTML or LaTeX form.  Each entry must occur on one
+# line, of the form:
+#
+#   [lang] <word> (supporting info), definition.
+#
+# The "[lang] " and " (supporting info)" text are optional.  Examples:
+#
+#   [a] <il_ahii>, Referring or belonging to God, divine.
+#   <aashtii>, Peace, concord, reconciliation.
+#   [A] <aarbaab> (pl. of <rabb>), Lords, masters, possessors.
+#
+# If you have lines with no definition, just the word by itself:
+#
+#   <aarbaab>
+#
+# Then you can ask lughat to look up the definitions for you in
+# Steingass using the --lookup option.  Note: This will only work if
+# there is a unique definition provided for the word.  You should
+# always proofread any such automated output.
+
+use Getopt::Long;
+use aasaan;
+use lughat;
+
+my $latex  = 0;
+my $lookup = 0;
+my $ascii  = 0;
+my $sort   = 0;
+my $help   = 0;
+
+GetOptions ('latex'  => \$latex,
+	    'lookup' => \$lookup,
+	    'ascii'  => \$ascii,
+	    'sort'   => \$sort,
+	    'help'   => \$help);
+
+if ($help) {
+    print <<'EOB';
+usage: lughat [options] <input file>
+
+options:
+  --latex         output code for LaTeX2e; default is HTML 4
+  --ascii         print out in ASCII; this useful if you only want
+                  to sort or lookup definitions, but not publish
+  --lookup        lookup entries without definitions in Steingass
+  --sort          sort the entries output into dictionary order
+EOB
+    exit 0;
+}
+
+# support code for entry sorting
+
+my $pat = '^(\s*{P[0-9]+}\s*)?(\[[^]]+\]\s+)?(\s*{P[0-9]+}\s*)?<([^>]+)>';
+
+sub compare_entry {
+    $a =~ /$pat/; my $l = $4;
+    $b =~ /$pat/; my $r = $4;
+    return int(aasaan::compare $l, $r);
+}
+
+# are we going to be looking things up in Steingass?
+
+lughat::open ("steingass") if $lookup;
+
+# output a glossary entry in HTML or LaTeX format
+
+my $ruleset = $latex ? \@aasaan::arabtex : \@aasaan::unicode;
+my $t_ruleset = $latex ? \@aasaan::latex : \@aasaan::html;
+
+if (! $ascii) {
+    if ($latex) {
+	print <<'EOB';
+\documentclass[twocolumn]{article}
+
+\usepackage{arabtex}
+\usepackage{twoblks}
+\usepackage{geometry}
+\geometry{verbose,
+  paperwidth=8.5in,
+  paperheight=11in,
+  tmargin=1in,
+  bmargin=1in,
+  lmargin=1in,
+  rmargin=1in,
+  headheight=0in,
+  headsep=0in,
+  footskip=0in}
+
+\pagestyle{plain}
+
+\begin{document}
+
+\setfarsi
+\vocalize
+\newarabfont
+EOB
+    } else {
+        print <<'EOB';
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title></title>
+    <meta name="generator" content="lughat">
+    <meta http-equiv="Content-Type"
+	  content="text/html;charset=utf-8">
+  </head>
+  <body>
+EOB
+    }
+}
+
+print "<p>\n" if ! $latex and ! $ascii;
+
+my $page = 1;
+for ($sort ? sort compare_entry <ARGV> : <ARGV>) {
+    if ($lookup and /^<([^>]+)>,?$/ and exists $lughat::index{$1}) {
+	my $loc, $item, $found = 0;
+	for $loc (@{$lughat::index{$1}}) {
+	    my ($pos, $page) = @$loc;
+	    $item = $pos, $found++ if $pos >= 0;
+	}
+	if ($found == 1) {
+	    $_ = lughat::read ("steingass", $item) . "\n";
+	}
+    }
+    print, next if $ascii;
+
+    $page = $1 if s/\s*{P([0-9]+)}//og;
+    s/\[see page\]/[see page $page]/og;
+    s/<<([^>]+)>>/aasaan::xlat($t_ruleset, $1)/geo;
+    if ($latex) {
+	s/<([^>]+)>/"<" . aasaan::xlat($ruleset, $1) . ">"/geo;
+	s/>,/\\,>,/go;
+    } else {
+	s/<([^>]+)>/aasaan::xlat($ruleset, $1) . " <em>" .
+	    aasaan::xlat($t_ruleset, $1) . "<\/em>"/geo;
+    }
+    s/^\[<([^>]+)>\]\s+/\\textit{$1} /o if $latex;
+    s/^\[([^\]]+)\]\s+/\\textsc{$1} /o if $latex;
+
+    print;
+
+    if ($latex) {
+	print "\n";
+    } else {
+	print "<p>\n";
+    }
+}
+
+if (! $ascii) {
+    if ($latex) {
+	print <<'EOB';
+
+\end{document}
+EOB
+    } else {
+        print <<'EOB';
+  </body>
+</html>
+EOB
+    }
+}
+
+lughat::close ("steingass") if $lookup;

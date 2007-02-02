@@ -1,0 +1,1 @@
+- Feeding "maazii" into ./arabic --house causes a segmentation fault
