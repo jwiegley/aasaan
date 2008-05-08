@@ -1,0 +1,73 @@
+#                                               -*- Autoconf -*-
+# Process this file with autoconf to produce a configure script.
+
+AC_PREREQ(2.59)
+AC_INIT(aasaan, 2.0, johnw@netartisans.com)
+AM_INIT_AUTOMAKE(aasaan, 2.0b)
+AC_CONFIG_SRCDIR([arabic.cc])
+AC_CONFIG_HEADER([acconf.h])
+
+# Checks for programs.
+AC_PROG_CXX
+AC_PROG_MAKE_SET
+AC_PROG_LIBTOOL
+AM_PROG_LIBTOOL
+#AC_PROG_RANLIB
+
+# check for Python
+AC_ARG_ENABLE(python,
+  [  --enable-python         Build the amounts library as a Python module],
+  [case "${enableval}" in
+    yes) python=true ;;
+    no)  python=false ;;
+    *) AC_MSG_ERROR(bad value ${enableval} for --enable-python) ;;
+  esac],[python=false])
+AM_CONDITIONAL(USE_PYTHON, test x$python = xtrue)
+
+if [test x$python = xtrue ]; then
+  AM_PATH_PYTHON(2.2,, :)
+  if [test "$PYTHON" != :]; then
+    AC_CACHE_CHECK(
+      [if boost_python is available],
+      [boost_python_cpplib_avail],
+      [boost_python_save_libs=$LIBS
+       LIBS="-lboost_python -lpython$PYTHON_VERSION $LIBS"
+       AC_LANG_PUSH(C++)
+       AC_TRY_LINK(
+	 [#include <boost/python.hpp>
+	  using namespace boost::python;
+	  class foo {};
+	  BOOST_PYTHON_MODULE(samp) {
+	    class_< foo > ("foo") ;
+	  }],
+	 [return 0],
+	 [boost_python_cpplib_avail=true],
+	 [boost_python_cpplib_avail=false])
+       AC_LANG_POP
+       LIBS=$boost_python_save_libs])
+    if [test x$boost_python_cpplib_avail = xtrue ]; then
+      AM_CONDITIONAL(HAVE_BOOST_PYTHON, true)
+      LIBS="-lboost_python -lpython$PYTHON_VERSION $LIBS"
+    else
+      AM_CONDITIONAL(HAVE_BOOST_PYTHON, false)
+    fi
+  else
+    AM_CONDITIONAL(HAVE_BOOST_PYTHON, false)
+  fi
+else
+  AM_CONDITIONAL(HAVE_BOOST_PYTHON, false)
+fi
+
+# Checks for header files.
+AC_STDC_HEADERS
+
+# Checks for typedefs, structures, and compiler characteristics.
+AC_HEADER_STDBOOL
+AC_TYPE_SIZE_T
+
+# Checks for library functions.
+AC_HEADER_STDC
+#AC_CHECK_FUNCS([memset])
+
+AC_CONFIG_FILES([Makefile])
+AC_OUTPUT

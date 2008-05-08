@@ -1,0 +1,6449 @@
+<?xml version="1.0"?>
+<tablet>
+  <head>
+    <title>
+      <text>
+	<pers>haft vaadii</pers>
+	<eng>The Seven Valleys</eng>
+      </text>
+    </title>
+  </head>
+  <leader>
+    <text>
+      <orig>
+	<arab>bismi al-ll_ahi ar-ra.hm_ani ar-ra.hiimi</arab>
+      </orig>
+      <trans>
+	<eng>In the Name of God, the Clement, the Merciful</eng>
+      </trans>
+    </text>
+  </leader>
+  <verse>
+    <text>
+      <orig>
+	<arab>al-.hamdu li-ll_ahi alladhii a.zhara al-wujuuda min
+	  al-`adami</arab>
+      </orig>
+      <trans>
+	<eng>Praise be to God Who hath made being to come forth from
+	  nothingness;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-raqama `alY law.hi al-insaani min asraari
+	  al-qidami</arab>
+      </orig>
+      <trans>
+	<eng>graven upon the tablet of man the secrets of
+	  preexistence;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-`alama-hu min al-bayaani maa laa-yu`lamu</arab>
+      </orig>
+      <trans>
+	<eng>taught him from the mysteries of divine utterance that
+	  which he knew not;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-ja`ala-hu kitaabaN mubiinaN li-man 'aamana wa
+	  astaslama</arab>
+      </orig>
+      <trans>
+	<eng>made him a Luminous Book unto those who believed and
+	  surrendered themselves;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-ashhada khalqa kulliN shay'iN fii h_adhaa az-zamaani
+	  al-mu.zlami a.s-.saylami</arab>
+      </orig>
+      <trans>
+	<eng>caused him to witness the creation of all things in this
+	  black and ruinous age,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-an.taqa-hu fii qu.tbi al-baqaa'i `alY al-la.hni
+	  al-badii`i</arab>
+      </orig>
+      <trans>
+	<eng>and to speak forth from the apex of eternity with a
+	  wondrous voice in the Excellent Temple:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>fii al-haykali al-mukarramu layashhada al-kulla fii
+	  nafsi-hi bi-nafsi-hi fii maqaamiN tajalliyiN rabbi-hi</arab>
+      </orig>
+      <trans>
+	<eng>to the end that every man may testify, in himself, by
+	  himself, in the station of the Manifestation of his
+	  Lord,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>bi-anna-hu laa-il_aha illaa huwa</arab>
+      </orig>
+      <trans>
+	<eng>that verily there is no God save Him,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-layu.sila al-kullu bi-dh_alika ilY dhurwaTi
+	  al-.haqaa'iqi</arab>
+      </orig>
+      <trans>
+	<eng>and that every man may thereby win his way to the summit of
+	  realities,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>.hattY laa-yushaahida a.haduN shay'aN illaa wa qad yarY
+	  al-ll_aha fii-hi</arab>
+      </orig>
+      <trans>
+	<eng>until none shall contemplate anything whatsoever but that
+	  he shall see God therein.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-'u.sallY wa-'usallama `alY awwaliN ba.hriN tasha~`aba
+	  min ba.hri al-hawiiyah</arab>
+      </orig>
+      <trans>
+	<eng><newpar/>And I praise and glorify the first sea which hath
+	  branched from the ocean of the Divine Essence,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-awwaliN .sub.hiN laa-.ha `an ufuqi
+	  al-a.hadiyyaTi</arab>
+      </orig>
+      <trans>
+	<eng>and the first morn which hath glowed from the Horizon of
+	  Oneness,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-awwaliN shamsiN ashraqat fii samaa'i
+	  al-azaliyyaTi</arab>
+      </orig>
+      <trans>
+	<eng>and the first sun which hath risen in the Heaven of
+	  Eternity,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-awwaliN naariN uwqadat min mi.sbaa.hi al-qidamiyyaTi
+	  fii mishkuuTi al-waa.hidiyyaTi</arab>
+      </orig>
+      <trans>
+	<eng>and the first fire which was lit from the Lamp of
+	  Preexistence in the lantern of singleness:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>alladhii kaana a.hmadaN fii malakuuti al-`aalamiini</arab>
+      </orig>
+      <trans>
+	<eng>He who was <pers>^a.hmad</pers> in the kingdom of the
+	  exalted ones,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-mu.hammadaN fii malaa'i al-muqarrabiini</arab>
+      </orig>
+      <trans>
+	<eng>and <pers>^mu.hammad</pers> amongst the concourse of the
+	  near ones,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-ma.hmuudaN fii jabaruuti al-mukhli.siini</arab>
+      </orig>
+      <trans>
+	<eng>and <pers>^ma.hmuud</pers> in the realm of the sincere
+	  ones.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab><quote>wa-iyyaamaN tada`uu falahu al-asmaa'i al-.husnYi
+	    fii quluubi al-`aarifiini</quote></arab>
+      </orig>
+      <trans>
+	<eng><quote>\dots{} by whichsoever (name) ye will, invoke Him:
+	    He hath most excellent names</quote> in the hearts of those
+	  who know.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-`alY 'aali-hi wa-.sa.hbi-hi tasliimaN kathiiraN
+	  daa'imaN abadaN</arab>
+      </orig>
+      <trans>
+	<eng>And upon His household and companions be abundant and
+	  abiding and eternal peace!</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa ba`da qad sami`ta maaghannat warqaa'i al-`irfaanu `alY
+	  afnaaniN sidraTiN fuwaadika</arab>
+      </orig>
+      <trans>
+	<eng><newpar/>Further, we have harkened to what the nightingale
+	  of knowledge sang on the boughs of the tree of thy
+	  being,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa `arafta maagharradat .hamaamaTi al-iiqaanu `alY
+	  agh.saaniN shajaraTiN qalbika</arab>
+      </orig>
+      <trans>
+	<eng>and learned what the dove of certitude cried on the
+	  branches of the bower of thy heart.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>ka-innii wajdatu ravaa'i.hi a.t-.tayiba min qamii.siN
+	  .hubbika</arab>
+      </orig>
+      <trans>
+	<eng>Methinks I verily inhaled the pure fragrances of the
+	  garment of thy love,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa adrakta tamaami li-qaa'ika fii mulaa.hi.zaTiN
+	  kitaabika</arab>
+      </orig>
+      <trans>
+	<eng>and attained thy very meeting from perusing thy
+	  letter.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa lammaa balaghta ishaaraatika fii fanaa'iki fii
+	  al-ll_ahi</arab>
+      </orig>
+      <trans>
+	<eng>And since I noted thy mention of thy death in God, and thy
+	  life through Him,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-baqaa'ika bi-hi wa-.hubbika a.hibbaa'i al-ll_ahi wa
+	  ma.zaahiriN asmaa'u-hi wa-ma.taali`iN .sifaati-hi</arab>
+      </orig>
+      <trans>
+	<eng>and thy love for the beloved of God and the Manifestations
+	  of His Names and the Dawning-Points of His
+	  Attributes<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>lidhaa adhkurulaka ishaaraati qudsiiyaTaN
+	  sha`sha`aaniiyiTaN min maraatibi al-jalaal</arab>
+      </orig>
+      <trans>
+	<eng>I therefore reveal unto thee sacred and resplendent tokens
+	  from the planes of glory,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>litajdhibika ilY saa.haTi al-qudsi wa al-qurbi wa
+	  al-jamaal</arab>
+      </orig>
+      <trans>
+	<eng>to attract thee into the court of holiness and nearness and
+	  beauty,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa tawa.salaka ilY maqaamiN laaturY fii al-wujuud illaa
+	  .tal`aTi .ha.draTi ma.hbuubika</arab>
+      </orig>
+      <trans>
+	<eng>and draw thee to a station wherein thou shalt see nothing
+	  in creation save the Face of thy Beloved One, the
+	  Honored,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa lan tarY al-khalq illaa kayuwmiN lam yakun a.hadiN
+	  madhkuuraN</arab>
+      </orig>
+      <trans>
+	<eng>and behold all created things only as in the day wherein
+	  none hath a mention.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-hiya maaghanna bulbulu al-a.hadiyyaTu fii al-riyaa.di
+	  al-ghawthiyyihi</arab>
+      </orig>
+      <trans>
+	<eng><newpar/>Of this hath the nightingale of oneness sung in
+	  the garden of <pers>^ghuwthiiyyih</pers>.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab><quote-beg/>qawla-hu wa-ta.zhara `alY law.hi
+	  qalbika</arab>
+      </orig>
+      <trans>
+	<eng>He saith: <quote-beg/>And there shall appear upon the
+	  tablet of thine heart</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>raqawma la.taa'ifi asraari <quote>ittaqaw al-ll_aha
+	    yu`alimukumu al-ll_ahu</quote></arab>
+      </orig>
+      <trans>
+	<eng>a writing of the subtle mysteries of <quote>Fear God and
+	    God will give you knowledge</quote>;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-yatadhakkara .taa'iri ruu.hika .ha.zaa'iri
+	  al-qidami</arab>
+      </orig>
+      <trans>
+	<eng>and the bird of thy soul shall recall the holy sanctuaries
+	  of preexistence</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-ya.tiira fii fa.daa'i <quote>faaslakii subuli
+	    rabbika</quote> dhulilaN bijanaa.hi al-shuwq</arab>
+      </orig>
+      <trans>
+	<eng>and soar on the wings of longing in the heaven
+	  of <quote>walk the beaten paths of thy Lord</quote>,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa-tajtanii min athmaaru al-'uns fii
+	  basaatiin <quote>kulii min kulli ath-thamaraat</quote>
+	  <quote-end/></arab>
+      </orig>
+      <trans>
+	<eng>and gather the fruits of communion in the gardens
+	  of <quote>Then feed on every kind of fruit.</quote>
+	  <quote-end/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>intahY wa-`amrii yaa .habiiba lawtadhuuqa h_adhihi
+	  ath-thamaraat</arab>
+      </orig>
+      <trans>
+	<eng><newpar/>By My life, O friend, wert thou to taste of these
+	  fruits,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>min kha.dri h_adhihi as-sunbulaati al-llatii nabatat fii
+	  araa.diyi al-ma`rifaT</arab>
+      </orig>
+      <trans>
+	<eng>from the green garden of these blossoms which grow in the
+	  lands of knowledge,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>`inda tajalliyi anwaari adh-dhaat fii maraayaa al-asmaa'u
+	  wa a.s-.sifaat</arab>
+      </orig>
+      <trans>
+	<eng>beside the orient lights of the Essence in the mirrors of
+	  names and attributes<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>layaakhudha ash-shuwq zamaami a.s-.sabr wa al-i.s.tibaar
+	  `an kaffika</arab>
+      </orig>
+      <trans>
+	<eng>yearning would seize the reins of patience and reserve from
+	  out thy hand,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa yahtaza ruu.hika min bawaariqi al-anwaar</arab>
+      </orig>
+      <trans>
+	<eng>and make thy soul to shake with the flashing light,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa tujdhibaka min al-wa.tani at-turaabii ilY al-wa.tani
+	  al-a.sliya al-il_ahii fii qu.tbi al-ma`aanii</arab>
+      </orig>
+      <trans>
+	<eng>and draw thee from the earthly homeland to the first,
+	  heavenly abode in the Center of Realities,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa ta.s`aduka ilY maqaamiN ta.tiira fii al-hawaa'
+	  kamaatamshiya `alY at-turaab</arab>
+      </orig>
+      <trans>
+	<eng>and lift thee to a plane wherein thou wouldst soar in the
+	  air even as thou walkest upon the earth,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa tarka.da `alY al-maa' kamaa tarka.da `alY
+	  al-ar.d</arab>
+      </orig>
+      <trans>
+	<eng>and move over the water as thou runnest on the land.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>fahanii'aN lii wa laka wa liman samaa ilY samaa'i
+	  al-`irfaan wa .sabaa'i qalbihu bimaahabba `alY riiaa.di</arab>
+      </orig>
+      <trans>
+	<eng>Wherefore, may it rejoice Me, and thee, and whosoever
+	  mounteth into the heaven of knowledge, and whose heart is
+	  refreshed by this,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>sarrihu .sabaa'i al-iiqaan min sabaa'i ar-ra.hman</arab>
+      </orig>
+      <trans>
+	<eng>that the wind of certitude hath blown over the garden of
+	  his being, from the Sheba of the All-Merciful.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa as-salaamu `alY man ittaba`a al-hudY</arab>
+      </orig>
+      <trans>
+	<eng><newpar/>Peace be upon him who followeth the Right
+	  Path!</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ba`d maraatib-i seyr-i saalikaan-raa az maskan-i
+	  khaakii bi-va.tan-i il_ahii haft rutbih mu`ayan
+	  namuudih-and</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>And further: The stages that mark the wayfarer's
+	  journey from the abode of dust to the heavenly homeland are
+	  said to be seven.</eng>
+      </trans>
+    </text>
+    <glossary>
+      <entry>
+	<word lang="A">maraatib</word>
+	<sing>martabaT</sing>
+	<def>Steps; grades; degrees, gradations of rank; times;
+	  affairs; particulars; storys (of a house).</def>
+      </entry>
+    </glossary>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chinaanchih ba`.d-ii haft vaadii va ba`.d-ii haft shahr
+	  dhikr kardih-and</pers>
+      </orig>
+      <trans>
+	<eng>Some have called these Seven Valleys, and others, Seven
+	  Cities.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va guftih-and kih saalik taa az nafs hijrat nanamaayad va
+	  iin asfaar-raa .tey nakunad</pers>
+      </orig>
+      <trans>
+	<eng>And they say that until the wayfarer taketh leave of self,
+	  and traverseth these stages,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-ba.hr-i qurb va vi.saal vaarid nashavad va az khamr-i
+	  bii-mithaal nachishad</pers>
+      </orig>
+      <trans>
+	<eng>he shall never reach to the ocean of nearness and union,
+	  nor drink of the peerless wine.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>avval vaadii .talab ast markab-i iin vaadii .sabr
+	  ast</pers>
+      </orig>
+      <trans>
+	<eng>The first is the Valley of Search.  The steed of this
+	  Valley is patience;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va musaafir dar iin safar bii .sabr bi-jaa-ii narisad va
+	  bi-maq.suud vaa.sil nashavad</pers>
+      </orig>
+      <trans>
+	<eng>without patience the wayfarer on this journey will reach
+	  nowhere and attain no goal.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va baayad hargiz afsurdih nagardad agar .sad hizaar saal
+	  sa`ii kunad va jamaal-i duust nabiinad pazhmurdih
+	  nashavad</pers>
+      </orig>
+      <trans>
+	<eng>Nor should he ever be downhearted; if he strive for a
+	  hundred thousand years and yet fail to behold the beauty of
+	  the Friend, he should not falter.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa mujaahidiin-i ka`bih-i <arab><quote>fiinaa</quote></arab>
+	  bi-bishaarat-i <arab><quote>lanahdiyannahum subulanaa</quote></arab>
+	  masruur-and</pers>
+      </orig>
+      <trans>
+	<eng>For those who seek the <pers>^ka`bih</pers> of <quote>for
+	    Us</quote> rejoice in the tidings: <quote>In our ways will
+	    We guide them.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va kamar-i khidmat dar .talab bi-ghaayat mu.hkam
+	  bastih-and va dar har aan az makaan-i ghaflat bi-imkaan-i
+	  .talab safar kunand</pers>
+      </orig>
+      <trans>
+	<eng>In their search, they have stoutly girded up the loins of
+	  service, and seek at every moment to journey from the plane of
+	  heedlessness into the realm of being.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>hiich band-ii iishaan-raa man` nanamaayad va hiich pand-ii
+	  sad nakunad</pers>
+      </orig>
+      <trans>
+	<eng>No bond shall hold them back, and no counsel shall deter
+	  them.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va shar.t ast iin `ibaad-raa kih dil-raa kih manba`-i
+	  khaziinih-i il_ahiyyih ast az har naqsh-ii paak kunand</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>It is incumbent on these servants that they
+	  cleanse the heart<emdash/> which is the wellspring of divine
+	  treasures<emdash/> from every marking,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az taqliid kih az athar-i aabaa' va ajdaad ast i`raa.d
+	  namaayand</pers>
+      </orig>
+      <trans>
+	<eng>and that they turn away from imitation, which is following
+	  the traces of their forefathers and sires,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va abvaab-i duustii va dushmanii-raa baa kull-i ahl-i ar.d
+	  masduud kunand</pers>
+      </orig>
+      <trans>
+	<eng>and shut the door of friendliness and enmity upon all the
+	  people of the earth.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va .taalib dar iin safar bi-maqaam-ii risad kih hamih-i
+	  muwjuudaat-raa dar .talab-i duust sargashtih biinad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>In this journey the seeker reacheth a stage
+	  wherein he seeth all created things wandering distracted in
+	  search of the Friend.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chih ya`quub-haa biinad kih dar .talab-i yuusuf aavaarih
+	  maandih-and</pers>
+      </orig>
+      <trans>
+	<eng>How many a Jacob will he see, hunting after his
+	  Joseph;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>`aalam-ii .habiib biinad kih dar .talab-i ma.hbuub
+	  davaan-and</pers>
+      </orig>
+      <trans>
+	<eng>he will behold many a lover, hasting to seek the
+	  Beloved,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va jahaan-ii `aashiq mulaa.hi.zih kunad kih dar pey-i
+	  ma`shuuq ravaan</pers>
+      </orig>
+      <trans>
+	<eng>he will witness a world of desiring ones searching after
+	  the one Desired.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar har aan-ii amr-ii mushaahidih kunad va dar har
+	  saa`at-ii bar sirr-ii mu.tali` gardad</pers>
+      </orig>
+      <trans>
+	<eng>At every moment he findeth a weighty matter, in every hour
+	  he becometh aware of a mystery;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa kih dil az har do jahaan bardaashtih va `azm-i
+	  ka`bih-i jaanaan namuudih</pers>
+      </orig>
+      <trans>
+	<eng>for he hath taken his heart away from both worlds, and set
+	  out for the <pers>^ka'bih</pers> of the Beloved.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar har qadam-ii i`aanat-i gheybii uu-raa shaamil
+	  shavad va juush-i .talab-ash ziiaadih gardad</pers>
+      </orig>
+      <trans>
+	<eng>At every step, aid from the Invisible Realm will attend him
+	  and the heat of his search will grow.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.talab-raa baayad az majnuun-i `ishq andaazih
+	  girift</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>One must judge of search by the standard of
+	  the <pers>^majnuun</pers> of Love.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.hikaayat kunand kih ruuz-ii majnuun-raa diidand khaak
+	  miibiikht va ashg miiriikht</pers>
+      </orig>
+      <trans>
+	<eng>It is related that one day they came upon Majnun sifting
+	  the dust, and his tears flowing down.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>guftand chih miikunii guft leylii-raa miijuuyam</pers>
+      </orig>
+      <trans>
+	<eng>They said, <quote>What doest thou?</quote> He
+	  said, <quote>I seek for <pers>^leylii</pers>.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>guftand vaay bar to leylii az ruu.h-i paak va to az khaak
+	  .talab miikunii</pers>
+      </orig>
+      <trans>
+	<eng>They cried, <quote>Alas for thee!  <pers>^leylii</pers>
+	    is of pure spirit, and thou seekest her in the
+	    dust!</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>guft hamih jaa dar .talab-ash miikuusham shaayad dar
+	  jaa-ii bijuuyam</pers>
+      </orig>
+      <trans>
+	<eng>He said, <quote>I seek her everywhere; haply somewhere I
+	    shall find her.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>balii dar turaab rabbu al-arbaab justan agar chih nazd-i
+	  `aaqil qabii.h ast l_akin bar kamaal-i jidd va .talab daliil
+	  ast</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Yea, although to the wise it be shameful to seek
+	  the Lord of Lords in the dust, yet this betokeneth intense
+	  ardor in searching.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab><quote>man .talaba shay'aN wajadda wajad</quote></arab>
+      </orig>
+      <trans>
+	<eng><quote>Whoso seeketh out a thing with zeal shall find
+	    it.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.taalib-i .saadiq juz vi.saal-i ma.tluub chiiz-ii najuuyad
+	  va .habiib-raa juz vi.saal-i ma.hbuub maq.suud-ii
+	  nabaashad</pers>
+      </orig>
+      <trans>
+	<eng>The true seeker hunteth naught but the object of his quest,
+	  and the lover hath no desire save union with his
+	  beloved.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin .talab-i .taalib-raa .haa.sil nashavad magar
+	  binithaar aanchih hast</pers>
+      </orig>
+      <trans>
+	<eng>Nor shall the seeker reach his goal unless he sacrifice all
+	  things.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ya`nii aanchih diidih va shaniidih va fahmiidih hamih-raa
+	  bi-nafii-i <quote>laa</quote> manfii saazad taa
+	  bi-shahristaan-i jaan kih madiinih-i <quote>illaa</quote> ast
+	  vaa.sil shavad</pers>
+      </orig>
+      <trans>
+	<eng>That is, whatever he hath seen, and heard, and understood,
+	  all must he set at naught, that he may enter the realm of the
+	  spirit, which is the City of God.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>himmat-ii baayad taa dar .talab-ash kuushiim va jahd-ii
+	  baayad taa az shahd-i va.sl-ash nuushiim</pers>
+      </orig>
+      <trans>
+	<eng>Labor is needed, if we are to seek Him; ardor is needed, if
+	  we are to drink of the honey of reunion with Him;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>agar az iin jaam nuush kuniim `aalam-ii faraamuush
+	  kuniim</pers>
+      </orig>
+      <trans>
+	<eng>and if we taste of this cup, we shall cast away the
+	  world.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va saalik dar iin safar bar har khaak-ii jaalis shavad va
+	  dar har bilaad-ii saakin gardad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>On this journey the traveler abideth in every land
+	  and dwelleth in every region.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az har vajh-ii .talab-i jamaal-i duust kunad va dar har
+	  diiaar .talab-i yaar namaayad</pers>
+      </orig>
+      <trans>
+	<eng>In every face, he seeketh the beauty of the Friend; in
+	  every country he looketh for the Beloved.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>baa har jam`-ii mujtami` shavad va baa har sar-ii hamsarii
+	  namaayad</pers>
+      </orig>
+      <trans>
+	<eng>He joineth every company, and seeketh fellowship with every
+	  soul,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>kih shaayad dar sar-ii sirr-i ma.hbuub biinad va yaa az
+	  .suurat-ii jamaal-i ma.hbuub mushaahidih kunad</pers>
+      </orig>
+      <trans>
+	<eng>that haply in some mind he may uncover the secret of the
+	  Friend, or in some face he may behold the beauty of the Loved
+	  one.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va agar dar iin safar bi-i`aanat-i baar-ii az yaar-i
+	  bii-nishaan nishaan yaaft</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>And if, by the help of God, he findeth on this
+	  journey a trace of the traceless Friend,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va buu-i yuusuf-i gumgashtih az bashiir-i a.hadiyyih
+	  shaniid</pers>
+      </orig>
+      <trans>
+	<eng>and inhaleth the fragrance of the long-lost Joseph from the
+	  heavenly messenger,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>fuwraN bi-vaadii-i `ishq qadam gudhaarad va az naar-i
+	  `ishq bigudaazad</pers>
+      </orig>
+      <trans>
+	<eng>he shall straightway step into the Valley of Love and be
+	  dissolved in the fire of love.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar iin shahr aasmaan-i jadhb buland shavad va aaftaab-i
+	  jahaantaab-i shuwq .taali` gardad va naar-i `ishq
+	  bar-afruuzad</pers>
+      </orig>
+      <trans>
+	<eng>In this city the heaven of ecstasy is upraised and the
+	  world-illuming sun of yearning shineth, and the fire of love
+	  is ablaze;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va chuun naar-i `ishq bar-afruukht kharman-i `aql bi-kulii
+	  bisuukht</pers>
+      </orig>
+      <trans>
+	<eng>and when the fire of love is ablaze, it burneth to ashes
+	  the harvest of reason.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar iin vaqt saalik az khuwd va gheyr-i khuwd bii-khabar
+	  ast</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Now is the traveler unaware of himself, and of
+	  aught besides himself.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>nah jahl va `ilm daanad va nah shakk va yaqiin nah
+	  .sub.h-i hidaayat shinaasad va nah shaam-i .dilaalat</pers>
+      </orig>
+      <trans>
+	<eng>He seeth neither ignorance nor knowledge, neither doubt nor
+	  certitude; he knoweth not the morn of guidance from the night
+	  of error.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az kufr va iimaan har do dar gariiz va samm-i qaatil-ash
+	  dil-padhiir</pers>
+      </orig>
+      <trans>
+	<eng>He fleeth both from unbelief and faith, and deadly poison
+	  is a balm to him.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast kih `a.t.taar guftih</pers>
+      </orig>
+      <trans>
+	<eng>Wherefore <pers>`^a.t.taar</pers> saith:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="3in">kufr-i kaafir-raa va diin-i
+	      diindaar-raa</line>
+	    <line len="3in">dharrih-i dard-at dil-i `a.t.taar-raa</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>For the infidel, error<emdash/>for the faithful,
+	      faith;</line>
+	    <line>For <pers>`^a.t.taar</pers>'s heart, an atom of Thy
+	      pain.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>markab-i iin vaadii dard ast</pers>
+      </orig>
+      <trans>
+	<eng>The steed of this Valley is pain;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va agar dard nabaashad hargiz iin safar tamaam
+	  nashavad</pers>
+      </orig>
+      <trans>
+	<eng>and if there be no pain this journey will never end.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va `aashiq dar iin rutbih juz ma`shuuq khiiaal-ii nadaarad
+	  va juz ma.hbuub panaah-ii najuuyad</pers>
+      </orig>
+      <trans>
+	<eng>In this station the lover hath no thought save the Beloved,
+	  and seeketh no refuge save the Friend.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar har aan .sad jaan raayigaan dar rah-i jaanaan dahad
+	  va dar har qadam-ii hizaar sar dar paa-i duust andaazad</pers>
+      </orig>
+      <trans>
+	<eng>At every moment he offereth a hundred lives in the path of
+	  the Loved one, at every step he throweth a thousand heads at
+	  the feet of the Beloved.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey baraadar-i man taa bi-mi.sr-i `ishq darnyaa-ii
+	  bi-yuusuf-i jamaal-i duust vaa.sil nashavii</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>O My Brother!  Until thou enter the Egypt of love,
+	  thou shalt never come to the Joseph of the Beauty of the
+	  Friend;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va taa chuun ya`quub az chashm-i .zaahirii nagudharii
+	  chashm-i baa.tin nagushaa'ii</pers>
+      </orig>
+      <trans>
+	<eng>and until, like Jacob, thou forsake thine outward eyes,
+	  thou shalt never open the eye of thine inward being;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va taa bi-naar-i `ishq nayafruuzii bi-yaar-i shuwq
+	  nayaamiizii</pers>
+      </orig>
+      <trans>
+	<eng>and until thou burn with the fire of love, thou shalt never
+	  commune with the Lover of Longing.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va `aashiq-raa az hiich chiiz parvaa niist va az hiich
+	  .durr-ii .darar nah</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>A lover feareth nothing and no harm can come nigh
+	  him:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az naar sard-ash biinii va az daryaa khushk-ash
+	  yaabii</pers>
+      </orig>
+      <trans>
+	<eng>Thou seest him chill in the fire and dry in the sea.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="5.5in">nishaan-i `aashiq aan baashad kih sard-ash
+	      biinii az duuzakh</line>
+	    <line len="5.5in">nishaan-i `aarif aan baashad kih
+	      khushk-ash biinii az daryaa</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>A lover is he who is chill in hell fire;</line>
+	    <line>A knower is he who is dry in the sea.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>`ishq hastii qabuul nakunad va zindigii nakhwaahad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Love accepteth no existence and wisheth no
+	  life:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.hayaat dar mamaat biinad va `izzat az dhillat
+	  juuyad</pers>
+      </orig>
+      <trans>
+	<eng>He seeth life in death, and in shame seeketh glory.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bisyaar huush baayad taa laayiq-i juush-i `ishq
+	  shavad</pers>
+      </orig>
+      <trans>
+	<eng>To merit the madness of love, man must abound in
+	  sanity;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bisyaar sar baayad taa qaabil-i kamand-i duust
+	  gardad</pers>
+      </orig>
+      <trans>
+	<eng>to merit the bonds of the Friend, he must be full of
+	  spirit.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mubaarak gardan-ii kih dar kamand-ash uftad va far-khandih
+	  sar-ii kih dar raah-i mu.habbat-ash bi-khaak uftad</pers>
+      </orig>
+      <trans>
+	<eng>Blessed the neck that is caught in His noose, happy the
+	  head that falleth on the dust in the pathway of His
+	  love.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>pas ey duust az nafs bii-gaanih sho taa bi-yigaanih pey
+	  barii va az khaakdaan-i faanii bugdhar taa dar aashyaan-i
+	  il_ahii jaay giirii</pers>
+      </orig>
+      <trans>
+	<eng>Wherefore, O friend, give up thy self that thou mayest find
+	  the Peerless one, pass by this mortal earth that thou mayest
+	  seek a home in the nest of heaven.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>niistii baayad taa naar-i hastii bar-afruuzii va maqbuul-i
+	  raah-i `ishq shavii</pers>
+      </orig>
+      <trans>
+	<eng>Be as naught, if thou wouldst kindle the fire of being and
+	  be fit for the pathway of love.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="3.5in">nakunad `ishq nafs-i zindih qabuul</line>
+	    <line len="3.5in">nakunad baaz muush-i murdih shikaar</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>Love seizeth not upon a living soul,</line>
+	    <line>The falcon preyeth not on a dead mouse.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>`ishq dar har aan-ii `aalam-ii bisuuzad va dar har diiaar
+	  kih `alam bar-afraazad viiraan saazad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Love setteth a world aflame at every turn, and he
+	  wasteth every land where he carrieth his banner.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar mamlikat-ash hastii-raa vujuud-ii nah va dar
+	  sal.tanat-ash `aaqilaan-raa maqarr-ii nah</pers>
+      </orig>
+      <trans>
+	<eng>Being hath no existence in his kingdom; the wise wield no
+	  command within his realm.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>nahang-i `ishq adiib-i `aql-raa bibal`ad va labiib-i
+	  daanish bishkurad</pers>
+      </orig>
+      <trans>
+	<eng>The leviathan of love swalloweth the master of reason and
+	  destroyeth the lord of knowledge.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>haft daryaa biiaashaamad va `a.tash-i qalb-ash nayafsurad
+	  va <arab>hal min maziid</arab> guuyad</pers>
+      </orig>
+      <trans>
+	<eng>He drinketh the seven seas, but his heart's thirst is still
+	  unquenched, and he saith, <quote>Is there yet any
+	    more?</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az khwiish bii-gaanih shavad va az har chih dar `aalam ast
+	  kinaarih giirad</pers>
+      </orig>
+      <trans>
+	<eng>He shunneth himself and draweth away from all on
+	  earth.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="3.5in">baa do `aalam `ishq-raa
+	      bii-gaanigii</line>
+	    <line len="3.5in">andar uu haftaad o do diivaanigii</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>Love's a stranger to earth and heaven too;</line>
+	    <line>In him are lunacies seventy-and-two.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.sad hizaar ma.zluumaan dar kamand-ash bastih va .sad
+	  hizaar `aarifaan bi-tiir-ash khastih</pers>
+      </orig>
+      <trans>
+	<eng>He hath bound a myriad victims in his fetters, wounded a
+	  myriad wise men with his arrow.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>har surkh-ii kih dar `aalam biinii az qahr-ash daan va har
+	  zard-ii kih dar rukhsaar biinii az zahr-ash shumur</pers>
+      </orig>
+      <trans>
+	<eng>Know that every redness in the world is from his anger, and
+	  every paleness in men's cheeks is from his poison.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>juz fanaa davaa'ii nabakhshad va juz dar vaadii-i `adam
+	  qadam nagudhaarad</pers>
+      </orig>
+      <trans>
+	<eng>He yieldeth no remedy but death, he walketh not save in the
+	  valley of the shadow;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va l_akin zahr-ash dar kaam-i `aashiq az shahd khuwsh-tar
+	  va fanaa-ash dar na.zar-i .taalib az .sad hizaar baqaa
+	  ma.hbuub-tar ast</pers>
+      </orig>
+      <trans>
+	<eng>yet sweeter than honey is his venom on the lover's lips,
+	  and fairer his destruction in the seeker's eyes than a hundred
+	  thousand lives.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>pas baayad bi-naar-i `ishq .hijaab-haa-i nafs-i
+	  shey.taanii suukhtih shavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Wherefore must the veils of the satanic self be
+	  burned away at the fire of love,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>taa ruu.h baraa-i idraak maraatib-i
+	  siyyid-i <quote>luwlaak</quote> la.tiif va paakiizih
+	  gardad</pers>
+      </orig>
+      <trans>
+	<eng>that the spirit may be purified and cleansed and thus may
+	  know the station of the Lord of the Worlds.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="5in">naar-i `ishq-ii bar-furuuz v jumlih
+	      hastii-haa bisuuz</line>
+	    <line len="5in">pas qadam bardaar v andar kuuy-i
+	      `ushshaaqaan gudhaar</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>Kindle the fire of love and burn away all
+	      things,</line>
+	    <line>Then set thy foot into the land of the lovers.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va agar `aashiq bi-taa'iidaat khaaliq az minqaar-i
+	  shaahiin-i `ishq bi-salaamat bugdharad dar mamlikat-i ma`rifat
+	  vaarid shavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>And if, confirmed by the Creator, the lover
+	  escapes from the claws of the eagle of love, he will enter the
+	  Valley of Knowledge</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az shak bi-yaqiin aayad va az .zulmat-i .dilaalat-i
+	  havY bi-nuur-i hidaayat-i taqvY raaji` gardad</pers>
+      </orig>
+      <trans>
+	<eng>and come out of doubt into certitude, and turn from the
+	  darkness of illusion to the guiding light of the fear of
+	  God.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va chashm-i ba.siirat-ash baaz shavad va baa .habiib-i
+	  khuwd bi-raaz mashghuul gardad</pers>
+      </orig>
+      <trans>
+	<eng>His inner eyes will open and he will privily converse with
+	  his Beloved;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar-i .haqiiqat va niyaaz bigushaayad va abvaab-i majaaz
+	  dar bandad dar iin rutbih qa.daa-raa ri.daa dahad</pers>
+      </orig>
+      <trans>
+	<eng>he will set ajar the gate of truth and piety, and shut the
+	  doors of vain imaginings.  He in this station is content with
+	  the decree of God,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va jang-raa .sul.h biinad va dar fanaa ma`aanii-i baqaa
+	  dark namaayad</pers>
+      </orig>
+      <trans>
+	<eng>and seeth war as peace, and findeth in death the secrets of
+	  everlasting life.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bi-chashm-i sar va sirr dar aafaaq iijaad va anfus-i
+	  `ibaad asraar-i mu`aad biinad</pers>
+      </orig>
+      <trans>
+	<eng>With inward and outward eyes he witnesseth the mysteries of
+	  resurrection in the realms of creation and the souls of
+	  men,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va .hikmat-i .samadaanii-raa bi-qalb-i ruu.haanii dar
+	  ma.zaahir naamutinaahii-i il_ahii seyr farmaayad</pers>
+      </orig>
+      <trans>
+	<eng>and with a pure heart apprehendeth the divine wisdom in the
+	  endless Manifestations of God.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar ba.hr qa.trih biinad va dar qa.trih asraar-i ba.hr
+	  mulaa.hi.zih kunad</pers>
+      </orig>
+      <trans>
+	<eng>In the ocean he findeth a drop, in a drop he beholdeth the
+	  secrets of the sea.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="3in">dil-i har dharrih-ii kih bishkaafii</line>
+	    <line len="3in">aaftaab-ii-sh dar miiaan biinii</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>Split the atom's heart, and lo!</line>
+	    <line>Within it thou wilt find a sun.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va saalik dar iin vaadii dar aafariinish-i .haqq
+	  bi-biinish-i mu.tlaq makhaalif va mughaayir nabiinad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>The wayfarer in this Valley seeth in the
+	  fashionings of the True one nothing save clear
+	  providence,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar har aan <quote>maa tarY fii khalqi ar-ra.hm_an min
+	    tafaawuti faarija`i al-ba.sar hal tarY min fu.tuur</quote>
+	  guuyad</pers>
+      </orig>
+      <trans>
+	<eng>and at every moment saith: <quote>No defect canst thou see
+	    in the creation of the God of Mercy: Repeat the gaze: Seest
+	    thou a single flaw?</quote></eng>
+      </trans>
+    </text>
+    <refs>
+    </refs>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar .zulm `adl biinad va dar `adl fa.dl mushaahidih
+	  kunad</pers>
+      </orig>
+      <trans>
+	<eng>He beholdeth justice in injustice, and in justice,
+	  grace.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar jahl `ilm-haa mastuur biinad va dar `ilm-haa .sad
+	  hizaar .hikmat-haa aashikaar va huveydaa idraak
+	  namaayad</pers>
+      </orig>
+      <trans>
+	<eng>In ignorance he findeth many a knowledge hidden, and in
+	  knowledge a myriad wisdoms manifest.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va qafas-i tan va havY bishkanad va bi-nafas-i ahl-i baqaa
+	  uns giirad</pers>
+      </orig>
+      <trans>
+	<eng>He breaketh the cage of the body and the passions, and
+	  consorteth with the people of the immortal realm.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-nard-i baan-haa-i ma`navii .su`uud namaayad va
+	  bi-samaa' ma`aanii bi-shitaabad</pers>
+      </orig>
+      <trans>
+	<eng>He mounteth on the ladders of inner truth and hasteneth to
+	  the heaven of inner significance.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar fulk-i <arab><quote>sanaryahum aayaatanaa fii
+	      al-aafaaq wa fii anfusihum</quote></arab> saakin
+	  shavad</pers>
+      </orig>
+      <trans>
+	<eng>He rideth in the ark of <quote>we shall show them our signs
+	    in the regions and in themselves,</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bar ba.hr-i <arab><quote>.hattY yatabbayyina lahum
+	      inahu al-.haq</quote></arab> saa'ir gardad</pers>
+      </orig>
+      <trans>
+	<eng>and journeyeth over the sea of <quote>until it become plain
+	    to them that (this Book) is the truth.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va agar .zulm-ii biinad .sabr namaayad va agar qahr biinad
+	  mihr aarad</pers>
+      </orig>
+      <trans>
+	<eng>And if he meeteth with injustice he shall have patience,
+	  and if he cometh upon wrath he shall manifest love.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.hikaayat kunand `aashiq-ii saal-haa dar hijr-i
+	  ma`shuuq-ash jaan miibaakht va dar aatish-i faraaq-ash
+	  miigudaakht</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>There was once a lover who had sighed for long
+	  years in separation from his beloved, and wasted in the fire
+	  of remoteness.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az ghalabih-i `ishq .sadr-ash az .sabr khaalii maand va
+	  jism-ash az ruu.h bii-zaarii just</pers>
+      </orig>
+      <trans>
+	<eng>From the rule of love, his heart was empty of patience, and
+	  his body weary of his spirit;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va zindigii dar faraaq-raa az nifaaq miishumurd va az
+	  aafaaq bi-ghaayat dar i.htiraaq buud</pers>
+      </orig>
+      <trans>
+	<eng>he reckoned life without her as a mockery, and time
+	  consumed him away.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chih ruuz-haa kih az hijr-ash raa.hat najustih va basaa
+	  shab-haa kih az dard-ash nakhuftih</pers>
+      </orig>
+      <trans>
+	<eng>How many a day he found no rest in longing for her; how
+	  many a night the pain of her kept him from sleep;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az .da`f badan chuun aahii gashtih va az dard-i dil chuun
+	  vaay shudih</pers>
+      </orig>
+      <trans>
+	<eng>his body was worn to a sigh, his heart's wound had turned
+	  him to a cry of sorrow.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-yik shurbih-i va.sl-ash hizaar jaan raayigaan miidaad
+	  va muyassar nimiishud</pers>
+      </orig>
+      <trans>
+	<eng>He had given a thousand lives for one taste of the cup of
+	  her presence, but it availed him not.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.tabiib-aan az `ilaaj-ash dar maandand va mu'aanisaan az
+	  uns-ash duurii justand</pers>
+      </orig>
+      <trans>
+	<eng>The doctors knew no cure for him, and companions avoided
+	  his company;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>balii marii.d-i `ishq-raa .tabiib chaarih nadaanad magar
+	  `inaayat-i .habiib dast-ash giirad</pers>
+      </orig>
+      <trans>
+	<eng>yea, physicians have no medicine for one sick of love,
+	  unless the favor of the beloved one deliver him.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>baar-ii `aaqibat shajar-i rijaa-ash thamar-i ya's
+	  bakhshiid va naar-i umiid-ash biyafsurd</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>At last, the tree of his longing yielded the fruit
+	  of despair, and the fire of his hope fell to ashes.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>taa aankih shab-ii az jaan bii-zaar shud va az khaanih
+	  bi-baazaar raft</pers>
+      </orig>
+      <trans>
+	<eng>Then one night he could live no more, and he went out of
+	  his house and made for the marketplace.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>naagaah uu-raa `asas-ii ta`aaqub namuud</pers>
+      </orig>
+      <trans>
+	<eng>on a sudden, a watchman followed after him.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>uu az piish taazaan va `asas az pey davaan</pers>
+      </orig>
+      <trans>
+	<eng>He broke into a run, with the watchman following;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>taa aankih `asas-haa jam` shudand va az har .taraf raah-i
+	  faraar bar aan bii-qaraar bastand</pers>
+      </orig>
+      <trans>
+	<eng>then other watchmen came together, and barred every passage
+	  to the weary one.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va aan faqiir az dil miinaaliid va bi-a.traaf miidaviid va
+	  baa khuwd miiguft</pers>
+      </orig>
+      <trans>
+	<eng>And the wretched one cried from his heart, and ran here and
+	  there, and moaned to himself:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin `asas `izraa'iil-i man ast kih bi-iin ta`jiil dar
+	  .talab-i man ast va yaa shaddaad-i bilaad ast kih dar kiin-i
+	  `ibaad ast</pers>
+      </orig>
+      <trans>
+	<eng><quote>Surely this watchman is <pers>`^izraa'iil</pers>, my
+	    angel of death, following so fast upon me; or he is a tyrant
+	    of men, seeking to harm me.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>aan khastih-i tiir-i `ishq bi-paa davaan buud va bi-dil
+	  naalaan</pers>
+      </orig>
+      <trans>
+	<eng>His feet carried him on, the one bleeding with the arrow of
+	  love, and his heart lamented.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>taa bi-diivaar-i baagh-ii rasiid va bi-hizaar za.hmat va
+	  mi.hnat baalaa-i diivaar raft diivaar-ii bi-ghaayat buland
+	  diid</pers>
+      </orig>
+      <trans>
+	<eng>Then he came to a garden wall, and with untold pain he
+	  scaled it, for it proved very high;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az jaan gudhasht va khuwd-raa dar baagh andaakht</pers>
+      </orig>
+      <trans>
+	<eng>and forgetting his life, he threw himself down to the
+	  garden.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>diid ma`shuuq-ash dar dast chiraagh-ii daarad va
+	  tafa.hu.s-i angushtar-ii miinamaayad kih az uu gum shudih
+	  buud</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>And there he beheld his beloved with a lamp in her
+	  hand, searching for a ring she had lost.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chuun aan `aashiq-i dil-daadih ma`shuuq-i dil burdih-raa
+	  diid aahii bar-kashiid va dast bi-du`aa bar-daasht</pers>
+      </orig>
+      <trans>
+	<eng>When the heart-surrendered lover looked on his ravishing
+	  love, he drew a great breath and raised up his hands in
+	  prayer, crying:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>kih ey khudaa iin `asas-raa `izzat diH va duwlat bakhsh va
+	  baaqii daar</pers>
+      </orig>
+      <trans>
+	<eng><quote-beg/>o God!  Give Thou glory to the watchman, and
+	  riches and long life.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>kih iin `asas jibri'iil buud kih daliil-i iin `aliil gasht
+	  yaa israafiil buud kih .hayaat bakhsh-i iin dhaliil
+	  shud</pers>
+      </orig>
+      <trans>
+	<eng>For the watchman was Gabriel, guiding this poor one; or he
+	  was
+	  <pers>^israafiil</pers>, bringing life to this wretched
+	  one!<quote-end/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va aanchih guft fii al-.haqiiqih durust buud ziiraa
+	  mulaa.hi.zih shud kih iin .zulm munkir-i `asas chiqadr
+	  `adl-haa dar sar daasht</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Indeed, his words were true, for he had found many
+	  a secret justice in this seeming tyranny of the
+	  watchman,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va chih ra.hmat-haa dar pardih panhaan namuudih
+	  buud</pers>
+      </orig>
+      <trans>
+	<eng>and seen how many a mercy lay hid behind the veil.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-yik qahr tashnih-i .sa.hraa-i `ishq-raa bi-ba.hr-i
+	  ma`shuuq vaa.sil namuud va .zulmat-i faraaq-raa bi-nuur-i
+	  vi.saal ruwshan farmuud</pers>
+      </orig>
+      <trans>
+	<eng>Out of wrath, the guard had led him who was athirst in
+	  love's desert to the sea of his loved one, and lit up the dark
+	  night of absence with the light of reunion.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ba`iid-ii-raa bi-bustaan-i qurb jaay daad va `aliil-ii-raa
+	  bi-.tabiib-i qalb raah namuud</pers>
+      </orig>
+      <trans>
+	<eng>He had driven one who was afar, into the garden of
+	  nearness, had guided an ailing soul to the heart's
+	  physician.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.haal aan `aashiq agar aakhir biin buud dar avval bar
+	  `asas ra.hmat miinamuud va du`aa-ash miiguft va aan .zulm-raa
+	  `adl miidiid</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Now if the lover could have looked ahead, he would
+	  have blessed the watchman at the start, and prayed on his
+	  behalf, and he would have seen that tyranny as justice;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chuun az aakhir ma.hjuub buud dar avval naalih aaghaaz
+	  namuud va bi-shikaayat zabaan gushuud</pers>
+      </orig>
+      <trans>
+	<eng>but since the end was veiled to him, he moaned and made his
+	  plaint in the beginning.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va l_akin musaafir-aan-i .hadiiqih-i `irfaan chuun
+	  aakhir-raa dar avval biinand</pers>
+      </orig>
+      <trans>
+	<eng>Yet those who journey in the garden land of knowledge,
+	  because they see the end in the beginning,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>lah_adhaa dar jang .sul.h va dar qahr aashtii mulaa.hi.zih
+	  kunand</pers>
+      </orig>
+      <trans>
+	<eng>see peace in war and friendliness in anger.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin rutbih ahl-i iin vaadii ast</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Such is the state of the wayfarers in this
+	  Valley;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ahl-i vaadii-haa-i fuwq iin vaadii avval va aakhir-raa
+	  yik biinand balkih nah avval biinand nah aakhir laa avval va
+	  laa aakhir biinand</pers>
+      </orig>
+      <trans>
+	<eng>but the people of the Valleys above this see the end and
+	  the beginning as one; nay, they see neither beginning nor end,
+	  and witness neither <quote>first</quote>
+	  nor <quote>last.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>balkih ahl-i madiinih-i baqaa kih dar ruw.dih-i kha.draa
+	  saakinand laa avval va laa aakhir ham nabiinand az avval-haa
+	  dar guriizand va bi-aakhir-haa darsitiiz</pers>
+      </orig>
+      <trans>
+	<eng>Nay rather, the denizens of the undying city, who dwell in
+	  the green garden land, see not even <quote>neither first nor
+	    last</quote>; they fly from all that is first, and repulse all
+	  that is last.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa kih `avaalim-i asmaa'-raa .tey namuudih-and va az
+	  `avaalim-i .sifaat chuun barq dar gudhashtih-and</pers>
+      </orig>
+      <trans>
+	<eng>For these have passed over the worlds of names, and fled
+	  beyond the worlds of attributes as swift as lightning.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chinaanchih miifarmaayad <quote>kamaali al-tuw.hiid nafyi
+	    a.s-.sifaat `anhu</quote></pers>
+      </orig>
+      <trans>
+	<eng>Thus is it said: <quote>Absolute Unity excludeth all
+	    attributes.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar .zill-i dhaat maskan giriftih-and</pers>
+      </orig>
+      <trans>
+	<eng>And they have made their dwelling-place in the shadow of
+	  the Essence.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast kih khwaajih `abdul-ll_ah qadasa al-l_ah ta`aalY
+	  sirrihu al-`aziiz</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Wherefore, relevant to this, <pers>^khaajih
+	    ^`abdul-ll_ah</pers><emdash/> may God the Most High sanctify
+	  his beloved spirit<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar iin maqaam nuktih-i daqiiq-ii va kalamih-i baliigh-ii
+	  dar ma`nii-i <quote>ihdinaa a.s-.siraa.ta al-mustaqiim</quote>
+	  farmuudih-and</pers>
+      </orig>
+      <trans>
+	<eng>hath made a subtle point and spoken an eloquent word as to
+	  the meaning of <quote>Guide Thou us on the straight
+	    path,</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va aan iin-ast kih bi-namaay bi-maa raah-i raast</pers>
+      </orig>
+      <trans>
+	<eng>which is: <quote-beg/>Show us the right way,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ya`nii bi-mu.hibat-i dhaat-i khuwd musharraf daar taa az
+	  iltifaat bi-khuwd va gheyr-i to aazaad gashtih</pers>
+      </orig>
+      <trans>
+	<eng>that is, honor us with the love of Thine Essence, that we
+	  may be freed from turning toward ourselves and toward all else
+	  save Thee,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-tamaam-ii giriftaar-i to gardiim juz to nadaaniim juz
+	  to nabiiniim va juz to nayandiishiim</pers>
+      </orig>
+      <trans>
+	<eng>and may become wholly Thine, and know only Thee, and see
+	  only Thee, and think of none save Thee.<quote-end/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>balkih az iin maqaam ham baalaa ravand</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Nay, these even mount above this station,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chinaanchih miifarmaayad <quote>al-mu.habbaTi .hijaabiN
+	    bayna al-mu.hibbi wa al-ma.hbuub</quote> biish az iin guftan
+	  maraa dastuur niist</pers>
+      </orig>
+      <trans>
+	<eng>wherefore it is said: Love is a veil betwixt the lover and
+	  the loved one; More than this I am not permitted to
+	  tell.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar iin vaqt .sub.h-i ma`rifat .taali` shud va
+	  chiraagh-haa-i seyr va suluuk khaamuush gasht</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>At this hour the morn of knowledge hath arisen and
+	  the lamps of wayfaring and wandering are quenched.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="3.75in">vahm-i muusY baa hamih nuur o
+	      hunar</line>
+	    <line len="3.75in">shud az aan ma.hjuub to bii par
+	      mapar</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>Veiled from this was Moses,</line>
+	    <line>Though all strength and light;</line>
+	    <line>Then thou who hast no wings at all,</line>
+	    <line>Attempt not flight.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>agar ahl-i raaz va niiaaz-ii bi-par-haa-i himmat-i uwliiaa
+	  parvaaz kun</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>If thou be a man of communion and prayer, soar up
+	  on the wings of assistance from Holy Souls,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>taa asraar-i duust biinii va bi-anvaar-i ma.hbuub
+	  rasii <arab>inaalill_ahi wa innaa ilayhi
+	    raaji`uun</arab></pers>
+      </orig>
+      <trans>
+	<eng>that thou mayest behold the mysteries of the Friend and
+	  attain to the lights of the Beloved, <quote>Verily, we are
+	    from God and to Him shall we return.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va saalik ba`d az seyr-i vaadii-i ma`rifat kih aakhir-i
+	  maqaam-i ta.hdiid ast bi-avval-i maqaam-i tuw.hiid vaa.sil
+	  shavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>After passing through the Valley of knowledge,
+	  which is the last plane of limitation, the wayfarer cometh to
+	  the Valley of Unity</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az ka's-i tajriid binuushad va dar ma.zaahir-i tafriid
+	  seyr namaayad</pers>
+      </orig>
+      <trans>
+	<eng>and drinketh from the cup of the Absolute, and gazeth on
+	  the Manifestations of Oneness.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar iin maqaam .hijaab-i kithrat bar-dirad va az
+	  `avaalim-i shahvat bar-parad va dar samaa'i va.hdat `uruuj
+	  namaayad</pers>
+      </orig>
+      <trans>
+	<eng>In this station he pierceth the veils of plurality, fleeth
+	  from the worlds of the flesh, and ascendeth into the heaven of
+	  singleness.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-guush-i il_ahii bishnavad va bi-chashm-i rabbaanii
+	  asraar-i .san`-i .samdaanii biinad</pers>
+      </orig>
+      <trans>
+	<eng>With the ear of God he heareth, with the eye of God he
+	  beholdeth the mysteries of divine creation.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-khalvat-khaanih-i duust qadam gudhaarad va ma.hram-i
+	  suraadiq-i ma.hbuub shavad</pers>
+      </orig>
+      <trans>
+	<eng>He steppeth into the sanctuary of the Friend, and shareth
+	  as an intimate the pavilion of the Loved One.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dast-i .haq az jeyb-i mu.tlaq bar-aarad va asraar-i
+	  qudrat .zaahir namaayad</pers>
+      </orig>
+      <trans>
+	<eng>He stretcheth out the hand of truth from the sleeve of the
+	  Absolute; he revealeth the secrets of power.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va.sf va ism va rasm az khuwd nabiinad va.sf-i khuwd-raa
+	  dar va.sf-i .haq biinad</pers>
+      </orig>
+      <trans>
+	<eng>He seeth in himself neither name nor fame nor rank, but
+	  findeth his own praise in praising God.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ism-i .haq-raa dar ism-i khuwd mulaa.hi.zih
+	  namaayad</pers>
+      </orig>
+      <trans>
+	<eng>He beholdeth in his own name the name of God;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>hamih aavaaz-haa az shah daanad va jamii`-i naghmaat-raa
+	  az uu shinavad</pers>
+      </orig>
+      <trans>
+	<eng>to him, <quote>all songs are from the King,</quote> and
+	  every melody from Him.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bar kursii-i <arab><quote>qul kull min `inda
+	      al-ll_ah</quote></arab> jaalis shavad va bar
+	  basaa.t-i <arab><quote>laa .huula va laa quvaTi illaa
+	      bi-al-ll_ah</quote></arab> raa.hat giirad</pers>
+      </orig>
+      <trans>
+	<eng>He sitteth on the throne of <quote>Say, all is from
+	    God,</quote> and taketh his rest on the carpet
+	  of <quote>There is no power or might but in
+	    God.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar ashyaa' bi-na.zar-i tuw.hiid mushaahidih
+	  kunad</pers>
+      </orig>
+      <trans>
+	<eng>He looketh on all things with the eye of oneness,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ishraaq-i tajallii-i shams-i il_ahii-raa az mashriq-i
+	  huviiyat bar hamih-i mumkinaat yik-saan biinad</pers>
+      </orig>
+      <trans>
+	<eng>and seeth the brilliant rays of the divine sun shining from
+	  the dawning-point of Essence alike on all created
+	  things,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va anvaar-i tuw.hiid-raa bar jamii`-i muwjuudaat muwjuud
+	  va .zaahir mushaahidih kunad</pers>
+      </orig>
+      <trans>
+	<eng>and the lights of singleness reflected over all
+	  creation.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ma`luum-i aan-janaab buudih kih jamii`-i ikhtilaafaat
+	  `avaalim kuwn kih dar maraatib-i suluuk saalik mushaahidih
+	  miikunad az na.zar-i khuwd-i saalik ast</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>It is clear to thine Eminence that all the
+	  variations which the wayfarer in the stages of his journey
+	  beholdeth in the realms of being, proceed from his own
+	  vision.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mathaalii dar iin maqaam dhikr miishavad taa iin ma`nY
+	  tamaam ma`luum gardad</pers>
+      </orig>
+      <trans>
+	<eng>We shall give an example of this, that its meaning may
+	  become fully clear:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mulaa.hi.zih dar shams-i .zaahir-ii farmaa'iid kih bar
+	  hamih-i muwjuudaat va mumkinaat bi-yik ishraaq tajallii
+	  miinamaayad</pers>
+      </orig>
+      <trans>
+	<eng>Consider the visible sun; although it shineth with one
+	  radiance upon all things,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ifaa.dih-i nuur bi-amr-i sul.taan-i .zuhuur bar hamih-i
+	  ashyaa' miifarmaayad</pers>
+      </orig>
+      <trans>
+	<eng>and at the behest of the King of Manifestation bestoweth
+	  light on all creation,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va liikun dar har mu.hall bi-iqti.daa-i ista`daad aan
+	  mu.hall .zaahir miishavad va a`.taa-i fey.d miikunad</pers>
+      </orig>
+      <trans>
+	<eng>yet in each place it becometh manifest and sheddeth its
+	  bounty according to the potentialities of that place.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mithl-i iin-kih dar mir aat bi-qar.s-haa va heya't-haa
+	  jilvih miinamaayad va iin bi-vaas.tih-i li.taafat-i khuwd-i
+	  miraat ast</pers>
+      </orig>
+      <trans>
+	<eng>For instance, in a mirror it reflecteth its own disk and
+	  shape, and this is due to the sensitivity of the mirror;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar baluur naar i.hdaath miikunad va dar saayir-i
+	  ashyaa hamaan athar-i tajallii .zaahir ast nah qur.s</pers>
+      </orig>
+      <trans>
+	<eng>in a crystal it maketh fire to appear, and in other things
+	  it showeth only the effect of its shining, but not its full
+	  disk.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bi-aan athar har shay'ii-raa bi-amr-i mu'aththir
+	  bi-isti`daad-i uu tarbiiyat miikunad chinaanchih mushaahidih
+	  miikuniid</pers>
+      </orig>
+      <trans>
+	<eng>And yet, through that effect, by the command of the
+	  Creator, it traineth each thing according to the quality of
+	  that thing, as thou observest.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va hamchiniin alvaan ham bi-iqti.daa-i mu.hall .zaahir
+	  miishavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>In like manner, colors become visible in every
+	  object according to the nature of that object.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mithl-i iin-kih dar zujaajih-i zard tajallii-i zard va dar
+	  sifiid tajallii-i sifiid va dar surkh tajallii-i surkh
+	  mulaa.hi.zih miishavad</pers>
+      </orig>
+      <trans>
+	<eng>For instance, in a yellow globe, the rays shine yellow; in
+	  a white the rays are white; and in a red, the red rays are
+	  manifest.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>pas iin ikhtilaafaat az mu.hall ast nah az ishraaq-i
+	  .diiyaa'</pers>
+      </orig>
+      <trans>
+	<eng>Then these variations are from the object, not from the
+	  shining light.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va agar mu.hall maani` daashtih baashad mithl-i jidaar va
+	  saqf aan mu.hall bi-al-marrih az tajallii-i shams ma.hruum
+	  maanad va aaftaab bar aan nataabad</pers>
+      </orig>
+      <trans>
+	<eng>And if a place be shut away from the light, as by walls or
+	  a roof, it will be entirely bereft of the splendor of the
+	  light, nor will the sun shine thereon.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast kih ba`.d-ii az nufuus-i .da`iifih chuun
+	  araa.dii-i ma`rifat-raa bi-jadaar-i nafs va havY</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Thus it is that certain invalid souls have
+	  confined the lands of knowledge within the wall of self and
+	  passion,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va .hijaab-i ghaflat va `amY .haayil namuudih-and</pers>
+      </orig>
+      <trans>
+	<eng>and clouded them with ignorance and blindness,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>lihidhaa az ishraaq-i shams ma`aanii va asraar-i ma.hbuub
+	  laayazaalii ma.hjuub maandih-and</pers>
+      </orig>
+      <trans>
+	<eng>and have been veiled from the light of the mystic sun and
+	  the mysteries of the Eternal Beloved;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az javaahir-i .hikmat-i diin-i mubiin-i siyyida al-mur
+	  saliin duur maandih-and</pers>
+      </orig>
+      <trans>
+	<eng>they have strayed afar from the jewelled wisdom of the
+	  lucid Faith of the Lord of Messengers,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az .haram-i jamaal ma.hruum shudand</pers>
+      </orig>
+      <trans>
+	<eng>have been shut out of the sanctuary of the All-Beauteous
+	  One,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az ka`bih-i jalaal mahjuur</pers>
+      </orig>
+      <trans>
+	<eng>and banished from the <pers>^ka'bih</pers> of
+	  splendor.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast rutbih-i ahl-i zamaan</pers>
+      </orig>
+      <trans>
+	<eng>Such is the worth of the people of this age!</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va agar bulbul-ii az gil-i nafs bar-khiizad va bar
+	  shaakhsaar-i gul-i qalb jaay giirad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>And if a nightingale soar upward from the clay of
+	  self and dwell in the rose bower of the heart,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bi-nighamaat-i .hijaazii va aavaaz-haa-i khuwsh-i
+	  `araaqii asraar-i il_ahii dhikr namaayad</pers>
+      </orig>
+      <trans>
+	<eng>and in Arabian melodies and sweet <pers>^iiraanian</pers>
+	  songs recount the mysteries of God<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>kih .harf-ii az aan jamii`-i jasad-haa-i murdih-raa
+	  .hayaat-i taazih-i jadiid bakhshad</pers>
+      </orig>
+      <trans>
+	<eng>a single word of which quickeneth to fresh, new life the
+	  bodies of the dead,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ruu.h-i quds-ii bar `a.zaam-i ramiimih-i mumkinaat
+	  mabdhuul daarad</pers>
+      </orig>
+      <trans>
+	<eng>and bestoweth the Holy Spirit upon the moldering bones of
+	  this existence<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>hizaar changaal-i .hasad va minqaar-i bugh.d biinii kih
+	  qa.sd-i uu namaayand va baa tamaam-i jidd dar halaak-ash
+	  kuushand</pers>
+      </orig>
+      <trans>
+	<eng>thou wilt behold a thousand claws of envy, a myriad beaks
+	  of rancor hunting after Him and with all their power intent
+	  upon His death.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>balii ju`al-raa buu-i khuwsh naa-khuwsh aayad va
+	  mazkuum-raa raayi.hih-i .tayib thamar nadahad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Yea, to the beetle a sweet fragrance seemeth foul,
+	  and to the man sick of a rheum a pleasant perfume is as
+	  naught.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast kih baraa-i irshaad-i `avaam guftih-and</pers>
+      </orig>
+      <trans>
+	<eng>Wherefore, it hath been said for the guidance of the
+	  ignorant:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="4in">daf` kun az maghz o az biinii zukaam</line>
+	    <line len="4in">taa kih rii.hu al-ll_ah dar aayad dar
+	      mashaam</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>Cleanse thou the rheum from out thine head</line>
+	    <line>And breathe the breath of God instead.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>baar-ii ikhtilaaf-i mu.hall vaa.di.h va mubarhan
+	  shud</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>In sum, the differences in objects have now been
+	  made plain.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ammaa na.zar-i saalik vaqt-ii dar mu.hall ma.hduud ast
+	  ya`nii dar zujaajaat-i seyr miinamaayad</pers>
+      </orig>
+      <trans>
+	<eng>Thus when the wayfarer gazeth only upon the place of
+	  appearance<emdash/> that is, when he seeth only the
+	  many-colored globes<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast kih zard va surkh va sifiid biinad</pers>
+      </orig>
+      <trans>
+	<eng>he beholdeth yellow and red and white;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-iin jahat ast kih jidaal beyn-i `ibaad bar paa
+	  shudih</pers>
+      </orig>
+      <trans>
+	<eng>hence it is that conflict hath prevailed among the
+	  creatures,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va `aalam-raa ghubaar tiirih az anfus-i ma.hduudih
+	  faraag-raftih</pers>
+      </orig>
+      <trans>
+	<eng>and a darksome dust from limited souls hath hid the
+	  world.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ba`.d-ii na.zar bi-ishraaq-i .duw' daarand va barkh-ii
+	  az khamar-i va.hdat nuushiidih-and juz shams chiiz-ii
+	  nabiinand</pers>
+      </orig>
+      <trans>
+	<eng>And some do gaze upon the effulgence of the light; and some
+	  have drunk of the wine of oneness and these see nothing but
+	  the sun itself.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>pas bi-sabab-i seyr-i iin sih maqaam-i mukhtalif fahm-i
+	  saalikiin va bayaan-i iishaan mukhtalif miishavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Thus, for that they move on these three differing
+	  planes, the understanding and the words of the wayfarers have
+	  differed;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast kih athar-i ikhtilaaf dar `aalam .zaahir shudih va
+	  miishavad</pers>
+      </orig>
+      <trans>
+	<eng>and hence the sign of conflict doth continually appear on
+	  earth.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa kih ba`.d-ii dar rutbih-i tuw.hiid vaaqifand va az
+	  aan `aalam sukhan guuyand</pers>
+      </orig>
+      <trans>
+	<eng>For some there are who dwell upon the plane of oneness and
+	  speak of that world,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va barkh-ii dar `avaalim-i ta.hdiid qaa'im-and va ba`.d-ii
+	  dar maraatib-i nafs va barkh-ii bi-al-amrih
+	  mu.htajib-and</pers>
+      </orig>
+      <trans>
+	<eng>and some inhabit the realms of limitation, and some the
+	  grades of self, while others are completely veiled.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast kih juhhaal-i `a.sr kih az partuv-i jamaal na.siib
+	  naburdih-and bi-ba`.d-ii maqaal takallum miinamaayand</pers>
+      </orig>
+      <trans>
+	<eng>Thus do the ignorant people of the day, who have no portion
+	  of the radiance of Divine Beauty, make certain claims,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar har `a.sr va zamaan bar ahl-i lajjih-i tuw.hiid
+	  vaarid mii-aavarand aanchih-raa kih khuwd bi-aan laayiq va
+	  sizaa vaarand</pers>
+      </orig>
+      <trans>
+	<eng>and in every age and cycle inflict on the people of the sea
+	  of oneness what they themselves deserve.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab><quote>wa-law yu'aa khidhu al-ll_ahu an-naasa
+	    bi-maakasabUA maataraka `alY .zahrihaa min da-'aabbaTiN
+	    wa-l_akin yu'akhkhiruhum 'ilY 'ajaliN
+	    musammYaN</quote></arab>
+      </orig>
+      <trans>
+	<eng><quote>Should God punish men for their perverse doings, He
+	    would not leave on earth a moving thing!  But to an
+	    appointed term doth He respite
+	    them\ldots</quote>[<pers>^qur'aan</pers> 35:45]</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey baraadar-i man qalb-i la.tiif bi-manzalih-i aa'iinih
+	  ast</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>O My Brother!  A pure heart is as a mirror;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>aan-raa bi-.siiqal-i .hubb va inqi.taa` az maasavii
+	  al-ll_ah paak kun</pers>
+      </orig>
+      <trans>
+	<eng>cleanse it with the burnish of love and severance from all
+	  save God,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>taa aftaab-i .haqiiqii dar aan jilvih namaayad va .sub.h-i
+	  azalii .taali` shavad</pers>
+      </orig>
+      <trans>
+	<eng>that the true sun may shine within it and the eternal
+	  morning dawn.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ma`nii-i <quote>laa yas`anii ar.dii va laa samaa'ii va
+	    l_akin yas`anii qalbi `abdii al-mu'min</quote> raa aashikaar
+	  va huveydaa biinii</pers>
+      </orig>
+      <trans>
+	<eng>Then wilt thou clearly see the meaning of <quote>Neither
+	    doth My earth nor My heaven contain Me, but the heart of My
+	    faithful servant containeth Me.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va jaan dar dast giirii va bi-hizaar .hasrat nithaar-i
+	  yaar-i taazih namaa'ii</pers>
+      </orig>
+      <trans>
+	<eng>And thou wilt take up thy life in thine hand, and with
+	  infinite longing cast it before the new Beloved One.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va chuun anvaar-i tajallii-i sul.taan-i a.hadiyyih bar
+	  `arsh-i qalb va dil juluus namuud</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Whensoever the light of Manifestation of the King
+	  of Oneness settleth upon the throne of the heart and
+	  soul,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>nuur-i uu dar jamii`-i a`.daa va arkaan .zaahir
+	  miishavad</pers>
+      </orig>
+      <trans>
+	<eng>His shining becometh visible in every limb and
+	  member.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>aan vaqt sirr-i .hadiith-i mashhuur sar az .hajaab-i
+	  deyjuur bar-aarad</pers>
+      </orig>
+      <trans>
+	<eng>At that time the mystery of the famed tradition gleameth
+	  out of the darkness:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers><arab><quote>laa zaal al-`abd yataqarraba ilayya
+	      bi-an-navaafil .hattY a.hbabtahu fa-idhaa a.hbabtahu
+	      kun-tu sam`ihi aladhii yasma`a bihi</quote></arab>
+	  alkh</pers>
+      </orig>
+      <trans>
+	<eng><quote>A servant is drawn unto Me in prayer until I answer
+	    him; and when I have answered him, I become the ear
+	    wherewith he heareth...</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa kih .saa.hib-i bayt dar bayt-i khuwd tajallii
+	  namuudih</pers>
+      </orig>
+      <trans>
+	<eng>For thus the Master of the house hath appeared within His
+	  home,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va arkaan-i bayt hamih az nuur-i uu ruwshan va munavvar
+	  shudih</pers>
+      </orig>
+      <trans>
+	<eng>and all the pillars of the dwelling are ashine with His
+	  light.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va fi`l va athar-i nuur az muniir ast</pers>
+      </orig>
+      <trans>
+	<eng>And the action and effect of the light are from the
+	  Light-Giver;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast kih hamih bih uu .harkat namaayand va bi-iraadih-i
+	  uu qiiaam kunand</pers>
+      </orig>
+      <trans>
+	<eng>so it is that all move through Him and arise by His
+	  will.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin-ast aan chashmih-ii kih muqarabiin az aan
+	  miinuushand</pers>
+      </orig>
+      <trans>
+	<eng>And this is that spring whereof the near ones drink,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chinaanchih miifarmaayad <arab><quote>`aynaN yashriba
+	      bihaa al-muqarribuun</quote></arab></pers>
+      </orig>
+      <trans>
+	<eng>as it is said: <quote>A fount whereof the near unto God
+	    shall drink...</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va diigar aankih mabaadaa dar iin bayaanaat raayi.hih-i
+	  .huluul</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>However, let none construe these utterances to be
+	  anthropomorphism,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va yaa tanazzulaat-i `avaalim-i .haq dar maraatib-i khalq
+	  ravd va bar aan-jinaab shubhih shavad</pers>
+      </orig>
+      <trans>
+	<eng>nor see in them the descent of the worlds of God into the
+	  grades of the creatures; nor should they lead thine Eminence
+	  to such assumptions.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa kih bi-dhaatih muqaddas ast az .su`uud va nazuul va
+	  az dakhuul va khuruuj</pers>
+      </orig>
+      <trans>
+	<eng>For God is, in His Essence, holy above ascent and descent,
+	  entrance and exit;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>lam yazal az .sifaat-i khalq ghanii buudih va khwaahad
+	  bud</pers>
+      </orig>
+      <trans>
+	<eng>He hath through all eternity been free of the attributes of
+	  human creatures, and ever will remain so.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va nashnaakhtih uu-raa a.had-ii va bi-kunh-i uu raah
+	  nayaaftih nafs-ii</pers>
+      </orig>
+      <trans>
+	<eng>No man hath ever known Him; no soul hath ever found the
+	  pathway to His Being.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>kull-i `urafaa dar vaadii-i ma`rifat-ash sar gardaan va
+	  kull-i uuliyaa dar idraak-i dhaat-ash .heyraan manazzih
+	  ast</pers>
+      </orig>
+      <trans>
+	<eng>Every mystic knower hath wandered far astray in the valley
+	  of the knowledge of Him; every saint hath lost his way in
+	  seeking to comprehend His Essence.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az idraak-i har mudrik-ii va muta`aalii ast az `irfaan har
+	  `aarif-ii</pers>
+      </orig>
+      <trans>
+	<eng>Sanctified is He above the understanding of the wise;
+	  exalted is He above the knowledge of the knowing!</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>as-sabiilu masduud va a.t-.talabu marduud</pers>
+      </orig>
+      <trans>
+	<eng>The way is barred and to seek it is impiety;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>daliilih aayaatih va vujuudih ithbaatih</pers>
+      </orig>
+      <trans>
+	<eng>His proof is His signs; His being is His evidence.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast kih `aashiq-aan ruu-i jaanaan
+	  guftih-and <arab><quote>yaaman dalla `alY dhaatihi bi-dhaatihi
+	      wa tanazzaha `an mujaanisaTi
+	      mukhluuqaatihi</quote></arab></pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Wherefore, the lovers of the face of the Beloved
+	  have said: <quote>O Thou, the One Whose Essence alone showeth
+	    the way to His Essence, and Who is sanctified above any
+	    likeness to His creatures.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>`adam-i .sirf kujaa tavaanad dar maydaan-i qidam asb
+	  davaanad va saayih-i faanii kujaa bi-khuwrshiid-i baaqii
+	  risad</pers>
+      </orig>
+      <trans>
+	<eng>How can utter nothingness gallop its steed in the field of
+	  preexistence, or a fleeting shadow reach to the everlasting
+	  sun?</eng>
+      </trans>
+    </text>
+    <refs>
+    </refs>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.habiib-i <arab><quote>luwlaak</quote>, <quote>maa
+	      `arafnaaka</quote></arab> farmuudih</pers>
+      </orig>
+      <trans>
+	<eng>The Friend hath said, <quote>But for Thee, we had not known
+	    Thee,</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va
+	  ma.hbuub-i <arab><quote>uwaadnY</quote>, <quote>maabilaghnaaka</quote></arab>
+	  guftih</pers>
+      </orig>
+      <trans>
+	<eng>and the Beloved hath said, <quote>nor attained Thy
+	    presence.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>balii iin dhikr-haa kih dar maraatib-i `irfaan dhikr
+	  miishavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Yea, these mentionings that have been made of the
+	  grades of knowledge</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ma`rifat-i tajalliiaat-i aan shams-i .haqiiqat ast kih dar
+	  maraayaa tajallii miifarmaayad</pers>
+      </orig>
+      <trans>
+	<eng>relate to the knowledge of the Manifestations of that Sun
+	  of Reality, which casteth Its light upon the Mirrors.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va tajallii-i aan nuur dar quluub hast va l_akin
+	  bi-.hujibaat-i nafsaaniyyih va shu'uunaat-i `ara.diyyih
+	  ma.hjuub ast</pers>
+      </orig>
+      <trans>
+	<eng>And the splendor of that light is in the hearts, yet it is
+	  hidden under the veilings of sense and the conditions of this
+	  earth,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chuun sham` ziir-i faanuus-i .hadiid chuun faanuus
+	  murtafi` shud nuur-i sham` .zaahir gardad</pers>
+      </orig>
+      <trans>
+	<eng>even as a candle within a lantern of iron, and only when
+	  the lantern is removed doth the light of the candle shine
+	  out.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va hamchiniin chuun kharq-i .hujibaat-i afkiyyih az vajh-i
+	  qalb namaa'ii anvaar-i a.hadiyyih .taali` shavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>In like manner, when thou strippest the wrappings
+	  of illusion from off thine heart, the lights of oneness will
+	  be made manifest.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>pas ma`luum shud kih az baraa-i tajalliiaat ham dukhuul va
+	  khuruuj niist</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Then it is clear that even for the rays there is
+	  neither entrance nor exit<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>taa chih risad bi-aan juwhar-i vujuud va sirr-i
+	  maq.suud</pers>
+      </orig>
+      <trans>
+	<eng>how much less for that Essence of Being and that longed-for
+	  Mystery.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey baraadar man dar iin maraatib az ruu-i ta.hqiiq seyr
+	  namaa nah az ruu-i taqliid</pers>
+      </orig>
+      <trans>
+	<eng>O My Brother, journey upon these planes in the spirit of
+	  search, not in blind imitation.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va saalik-raa duur baash-i kalimaat man` nakunad va
+	  heymanih-i ishaarat sad nanamaayad</pers>
+      </orig>
+      <trans>
+	<eng>A true wayfarer will not be kept back by the bludgeon of
+	  words nor debarred by the warning of allusions.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="4.25in">pardih chih baashad miiaan-i `aashiq o
+	      ma`shuuq</line>
+	    <line len="4.25in">sadd-i sikandar nah maani` ast o nah
+	      .haa'il</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>How shall a curtain part the lover and the loved
+	      one?</line>
+	    <line>Not Alexander's wall can separate them!</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>asraar bisyaar va aghyaar bii-shumaar</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Secrets are many, but strangers are myriad.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>sirr-i ma.hbuub-raa daftar-haa kifaayat nakunad va bi-iin
+	  alvaa.h itmaam nayaabad baa iin-kih .harf-ii biish niist va
+	  ramzii biish nah</pers>
+      </orig>
+      <trans>
+	<eng>Volumes will not suffice to hold the mystery of the Beloved
+	  One, nor can it be exhausted in these pages, although it be no
+	  more than a word, no more than a sign.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab><quote>al-`ilmu nuq.taTuN kaththarihu
+	    al-jaahiluun</quote></arab>
+      </orig>
+      <trans>
+	<eng><quote>Knowledge is a single point, but the ignorant have
+	    multiplied it.</quote></eng>
+      </trans>
+    </text>
+    <refs>
+    </refs>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az ham-iin maqaam ikhtilaafaat-i `avaalim-raa ham
+	  mulaa.hi.zih kun</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>On this same basis, ponder likewise the
+	  differences among the worlds.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>agar chih `avaalim-i il_ahii naamutinaahii ast va l_akin
+	  ba`.d-ii chihaar rutbih dhikr namuudih-and</pers>
+      </orig>
+      <trans>
+	<eng>Although the divine worlds be never ending, yet some refer
+	  to them as four:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>`aalam-i zamaan va aan aan-ast kih az baraa-i uu avval va
+	  aakhir baashad</pers>
+      </orig>
+      <trans>
+	<eng>The world of time (<pers>zamaan</pers>), which is the one
+	  that hath both a beginning and an end;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va `aalam-i dahr ya`nii avval daastih baashad va
+	  aakhir-ash padiid nabaashad</pers>
+      </orig>
+      <trans>
+	<eng>the world of duration (<pers>dahr</pers>), which hath a
+	  beginning, but whose end is not revealed;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va `aalam-i sarmad kih avval-ii mulaa.hi.zih nashavad va
+	  aakhir-ash mafhuum shavad</pers>
+      </orig>
+      <trans>
+	<eng>the world of perpetuity (<pers>sarmad</pers>), whose
+	  beginning is not to be seen but which is known to have an
+	  end;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va `aalam-i azal kih nah avval-ii mushaahidih shavad va
+	  nah aakhir-ii</pers>
+      </orig>
+      <trans>
+	<eng>and the world of eternity (<pers>azal</pers>), neither a
+	  beginning nor an end of which is visible.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>agar chih dar iin bayaanaat ikhtilaaf bisyaar ast agar
+	  taq.siil dhikr shavd kisaalat afzaayad</pers>
+      </orig>
+      <trans>
+	<eng>Although there are many differing statements as to these
+	  points, to recount them in detail would result in
+	  weariness.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chinaanchih ba`.d-ii `aalam-i sarmad-raa bii ibtidaa va
+	  intahaa guftih-and</pers>
+      </orig>
+      <trans>
+	<eng>Thus, some have said that the world of perpetuity hath
+	  neither beginning nor end,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va `aalam-i azal-raa gheyb-i manii`-i laa-yudrak dhikr
+	  namuudih-and</pers>
+      </orig>
+      <trans>
+	<eng>and have named the world of eternity as the invisible,
+	  impregnable Empyrean.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ba`.d-ii `avaalim-i laahuut va jabaruut va malakuut va
+	  naasuut guftih-and</pers>
+      </orig>
+      <trans>
+	<eng>Others have called these the worlds of the Heavenly Court
+	  (<pers>^laahuut</pers>), of the Empyrean Heaven
+	  (<pers>^jabaruut</pers>), of the Kingdom of the Angels
+	  (<pers>^malakuut</pers>), and of the mortal world
+	  (<pers>^naasuut</pers>).</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>safar-haa-i sabiil-i `ishq-raa chihaar
+	  shumurdih-and</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>The journeys in the pathway of love are reckoned
+	  as four:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>min al-khalqi ilii al-.haqq va min al-.haqqi ilii al-khalq
+	  va min al-khalqi ilii al-khalq va min al-.haqqi ilii
+	  al-.haq</arab>
+      </orig>
+      <trans>
+	<eng>From the creatures to the True One; from the True One to
+	  the creatures; from the creatures to the creatures; from the
+	  True One to the True One.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va hamchiniin bisyaar bayaanaat az `urafaa va .hukamaa-i
+	  qabl hast kih bandih muta`ri.d nashudam</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>There is many an utterance of the mystic seers and
+	  doctors of former times which I have not mentioned here,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va duust nadaaram kih adhkaar qabl bisyaar i.zhaar
+	  shavad</pers>
+      </orig>
+      <trans>
+	<eng>since I mislike the copious citation from sayings of the
+	  past;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa kih aqvaal gheyr-raa dhikr namuudan daliil ast bar
+	  `uluum-i kasbii nah bar muwhibat il_ahii</pers>
+      </orig>
+      <trans>
+	<eng>for quotation from the words of others proveth acquired
+	  learning, not the divine bestowal.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va l_akin iin-qadr ham kih dhikr shud bi-vaas.tih-i
+	  `aadat-i naas ast</pers>
+      </orig>
+      <trans>
+	<eng>Even so much as We have quoted here is out of deference to
+	  the wont of men and after the manner of the friends.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ta-assii bi-a.s.haab va `alaavih bar iin dariin
+	  risaalih iin bayaanaat nagunjad</pers>
+      </orig>
+      <trans>
+	<eng>Further, such matters are beyond the scope of this
+	  epistle.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va `adam-i iqbaal bi-dhikr-i aqvaal-i iishaan nah az
+	  ghuruur ast bal bi-vaas.tih-i .zuhuur-i .hikmat va tajallii-i
+	  muwhibat ast</pers>
+      </orig>
+      <trans>
+	<eng>Our unwillingness to recount their sayings is not from
+	  pride, rather is it a manifestation of wisdom and a
+	  demonstration of grace.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="4.25in">gar khi.dr dar ba.hr kashtii-raa
+	      shikast</line>
+	    <line len="4.25in">.sad durustii dar shikast-i khi.dr
+	      hast</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>If <pers>^khi.dr</pers> did wreck the vessel on the
+	      sea,</line>
+	    <line>Yet in this wrong there are a thousand rights.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va illaa iin bandih khuwd-raa dar saa.hat-i yik-ii az
+	  a.hibaa-i khudaa ma`duum miidaanam va mafquud miishumuram taa
+	  chih risad dar basaa.t-i uulyaa</pers>
+      </orig>
+      <trans>
+	<eng>Otherwise, this Servant regardeth Himself as utterly lost
+	  and as nothing, even beside one of the beloved of God, how
+	  much less in the presence of His holy ones.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>fasub.haana rabbii al-a`lY</arab>
+      </orig>
+      <trans>
+	<eng>Exalted be My Lord, the Supreme!</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az iin-haa gudhashtih maq.suud dhikr-i maraatib-i
+	  saalikiin ast nah bayaan-i aqvaal-i `aarifiin</pers>
+      </orig>
+      <trans>
+	<eng>Moreover, our aim is to recount the stages of the
+	  wayfarer's journey, not to set forth the conflicting
+	  utterances of the mystics.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>agar chih mithaal-i mukhta.sar-ii dar avval va aakhir-i
+	  `aalam nisbii va i.daafii zadih shud</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Although a brief example hath been given
+	  concerning the beginning and ending of the relative world, the
+	  world of attributes,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mujaddad mithaal-ii diigar dhikr miishavad taa tamaam-i
+	  ma`aanii dar qamii.s-i mithaal-ii .zaahir shavad</pers>
+      </orig>
+      <trans>
+	<eng>yet a second illustration is now added, that the full
+	  meaning may be manifest.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mathalaN aan-jinaab dar khuwd mulaa.hi.zih
+	  farmaayand</pers>
+      </orig>
+      <trans>
+	<eng>For instance, let thine Eminence consider his own
+	  self;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>kih nisbat bi-pasar-i khuwd avvaland va nisbat bi-pidar-i
+	  khuwd aakhir</pers>
+      </orig>
+      <trans>
+	<eng>thou art first in relation to thy son, last in relation to
+	  thy father.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar .zaahir .hikaayat az .zaahir-i qudrat miikuniid dar
+	  `avaalim-i .sun`-i il_ahii</pers>
+      </orig>
+      <trans>
+	<eng>In thine outward appearance, thou tellest of the appearance
+	  of power in the realms of divine creation;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar baa.tin bar asraar-i baa.tin kih vadii`ih-i
+	  il_ahiyyih ast</pers>
+      </orig>
+      <trans>
+	<eng>in thine inward being thou revealest the hidden mysteries
+	  which are the divine trust deposited within thee.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar shumaa pas .sidq-i avvaliyyat va aakhiriyyat va
+	  .zaahiriyyat va baa.tiniyyat bi-iin ma`nY kih dhikr shud bar
+	  shumaa miikunad</pers>
+      </orig>
+      <trans>
+	<eng>And thus firstness and lastness, outwardness and inwardness
+	  are, in the sense referred to, true of thyself,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>taa dar iin chihaar rutbih kih bi-shumaa `inaayat shud
+	  chihaar rutbih-i il_ahiyyih-raa idraak farmaa'iid</pers>
+      </orig>
+      <trans>
+	<eng>that in these four states conferred upon thee thou shouldst
+	  comprehend the four divine states,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>taa bulbul-i qalb bar jamii`-i shaakhsaar-haa-i gul-i
+	  vujuud az gheyb va shuhuud nidaa kunad</pers>
+      </orig>
+      <trans>
+	<eng>and that the nightingale of thine heart on all the branches
+	  of the rosetree of existence, whether visible or concealed,
+	  should cry out:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-anah <arab><quote>huw al-awwal wa al-aakhir wa
+	      a.z-.zaahir wa al-baa.tin</quote></arab></pers>
+      </orig>
+      <trans>
+	<eng><quote>He is the first and the last, the Seen and the
+	    Hidden...</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin dhikr-haa dar maraatib-i `avaalim-i nisbat dhikr
+	  miishavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>These statements are made in the sphere of that
+	  which is relative, because of the limitations of men.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va illaa aan rijaal-ii kih bi-qadam-ii `aalam-i nisbat va
+	  taqyiid-raa .tey namuudih-and</pers>
+      </orig>
+      <trans>
+	<eng>Otherwise, those personages who in a single step have
+	  passed over the world of the relative and the limited,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bar basaa.t-i khuwsh-i tajriid saakin shudih-and</pers>
+      </orig>
+      <trans>
+	<eng>and dwelt on the fair plane of the Absolute,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar `aalam-haa-i i.tlaaq va amr kheymih
+	  bar-afraakhtih-and</pers>
+      </orig>
+      <trans>
+	<eng>and pitched their tent in the worlds of authority and
+	  command<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>jamii`-i iin nisbat-haa-raa bi-naar-ii suukhtih-and</pers>
+      </orig>
+      <trans>
+	<eng>have burned away these relativities with a single
+	  spark,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va hamih-i iin alfaa.z-raa bi-nam-ii ma.hv
+	  namuudih-and</pers>
+      </orig>
+      <trans>
+	<eng>and blotted out these words with a drop of dew.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar yam-i ruu.h shinaavarii miinamaayand va dar havaa-i
+	  quds-i nuur seyr miikunand</pers>
+      </orig>
+      <trans>
+	<eng>And they swim in the sea of the spirit, and soar in the
+	  holy air of light.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>diigar alfaa.z dar iin rutbih kujaa vujuud daarad taa
+	  avval yaa aakhir yaa gheyr-i iin-haa ma`luum shavd va madhkuur
+	  aayad</pers>
+      </orig>
+      <trans>
+	<eng>Then what life have words, on such a plane,
+	  that <quote>first</quote> and <quote>last</quote> or other
+	  than these be seen or mentioned!</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar iin maqaam avval nafs-i aakhir va aakhir nafs-i avval
+	  ast</pers>
+      </orig>
+      <trans>
+	<eng>In this realm, the first is the last itself, and the last
+	  is but the first.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="3.5in">aatish-ii az `ishq-i jaanaan
+	      bar-furuuz</line>
+	    <line len="3.5in">sar bi-sar fikr o `ibaadat-raa
+	      bisuuz</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>In thy soul of love build thou a fire</line>
+	    <line>And burn all thoughts and words entire.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey duust-i man dar khuwd mulaa.hi.zih farmaa</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>O my friend, look upon thyself:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>kih agar pidar nimiishud-ii va pisar nadiidih buudii iin
+	  alfaa.z ham nashaniidih buudii</pers>
+      </orig>
+      <trans>
+	<eng>Hadst thou not become a father nor begotten a son, neither
+	  wouldst thou have heard these sayings.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>pas .haal hamih-raa faraamuush kun taa dar mu.s.tabih-i
+	  tuw.hiid nazd-i adiib-i `ishq biyaamuuzii</pers>
+      </orig>
+      <trans>
+	<eng>Now forget them all, that thou mayest learn from the Master
+	  of Love in the schoolhouse of oneness,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az <arab><quote>innaa</quote></arab>
+	  bih <quote>raaji`uun</quote> rij`at kunii</pers>
+      </orig>
+      <trans>
+	<eng>and return unto God,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az baa.tin-i majaazii bi-maqaam-i .haqiqii-i khuwd
+	  vaa.sil gardii</pers>
+      </orig>
+      <trans>
+	<eng>and forsake the inner land of unreality for thy true
+	  station,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar .zil-i shajarih-i daanish saakin shavii</pers>
+      </orig>
+      <trans>
+	<eng>and dwell within the shadow of the tree of knowledge.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey `aziiz nafs-raa faqiir nimaa taa dar `ar.sih-i buland-i
+	  ghanaa vaarad shavii</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>O thou dear one!  Impoverish thyself, that thou
+	  mayest enter the high court of riches;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va jisad-raa dhaliil kun taa az sharii`ih-i `izzat
+	  biyaashaamii</pers>
+      </orig>
+      <trans>
+	<eng>and humble thy body, that thou mayest drink from the river
+	  of glory,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bi-jamii`-i ma`aanii-i ash`aar kih su'aal farmuudii
+	  birasii</pers>
+      </orig>
+      <trans>
+	<eng>and attain to the full meaning of the poems whereof thou
+	  hadst asked.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>pas ma`luum shud kih iin maraatib bastih bi-seyr-i saalik
+	  ast</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Thus it hath been made clear that these stages
+	  depend on the vision of the wayfarer.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar har madiinih `aalam-ii biinad va dar har vaadii
+	  bi-chashmih-ii risad va dar har .sa.hraa naghmih-ii
+	  shinavad</pers>
+      </orig>
+      <trans>
+	<eng>In every city he will behold a world, in every Valley reach
+	  a spring, in every meadow hear a song.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>valii shaah-baaz-i havaa-i ma`navii-raa shahnaaz-haa-i
+	  badii`-i ruu.haanii dar dil ast</pers>
+      </orig>
+      <trans>
+	<eng>But the falcon of the mystic heaven hath many a wondrous
+	  carol of the spirit in His breast,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va murgh-i `araaqii-raa aavaaz-haa-i khuwsh-i .hijaaz-ii
+	  dar sar</pers>
+      </orig>
+      <trans>
+	<eng>and the Persian bird keepeth in His soul many a sweet Arab
+	  melody;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va l_akin mastuur buudih va mastuur khwaahad buud</pers>
+      </orig>
+      <trans>
+	<eng>yet these are hidden, and hidden shall remain.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="3.25in">gar biguuyam `aql-haa bar ham
+	      zanad</line>
+	    <line len="3.25in">var niviisam bas qalam-haa
+	      bishkanad</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>If I speak forth, many a mind will shatter,</line>
+	    <line>And if I write, many a pen will break.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa as-salaamu `alY man qa.ta`a h_adha as-safari al-a`lY wa
+	  ittaba`a al-.haqqi bi-anvaari al-hudY</arab>
+      </orig>
+      <trans>
+	<eng><newpar/>Peace be upon him who concludeth this exalted
+	  journey and followeth the True One by the lights of
+	  guidance.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va saalik ba`d az qa.t`-i ma`aarij-i iin safar-i buland-i
+	  a`lY dar madiinih-i istighnaa vaarid miishavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>And the wayfarer, after traversing the high planes
+	  of this supernal journey, entereth the Valley of
+	  Contentment.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar iin vaadii nasaa'im-i istighnaa-i il_ahii-raa
+	  bibiinad kih az baydaa-i ruu.h miivazad</pers>
+      </orig>
+      <trans>
+	<eng>In this Valley he feeleth the winds of divine contentment
+	  blowing from the plane of the spirit.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va .hijaab-haa-i faqr-raa miisuuzad</pers>
+      </orig>
+      <trans>
+	<eng>He burneth away the veils of want,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va <arab><quote>yuumi yaghnii al-ll_ah kulaN min
+	      sa`atihi</quote></arab> raa bi-chashm-i .zaahir va baa.tin
+	  dar gheyb va shihaadaT ashyaa' mushaahidih
+	  farmaayad</pers>
+      </orig>
+      <trans>
+	<eng>and with inward and outward eye, perceiveth within and
+	  without all things the day of: <quote>God will compensate each
+	    one out of His abundance.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az .huzn bi-suruur aayad va az gham bi-fara.h raaji`
+	  shavad</pers>
+      </orig>
+      <trans>
+	<eng>From sorrow he turneth to bliss, from anguish to joy.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>qab.d va inqibaa.d-raa bi-bas.t va inbisaa.t tabdiil
+	  namaayad</pers>
+      </orig>
+      <trans>
+	<eng>His grief and mourning yield to delight and rapture.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>musaafiraan-i iin vaadii agar dar .zaahir bar khaak
+	  saakin-and</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Although to outward view, the wayfarers in this
+	  Valley may dwell upon the dust,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ammaa dar baa.tin bar rafraf-i ma`aanii jaalis</pers>
+      </orig>
+      <trans>
+	<eng>yet inwardly they are throned in the heights of mystic
+	  meaning;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az ni`mat-haa-i bii zavaal ma`navii marzuuq-and</pers>
+      </orig>
+      <trans>
+	<eng>they eat of the endless bounties of inner
+	  significances,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az sharaab-haa-i la.tiif-i ruu.haanii mashruub</pers>
+      </orig>
+      <trans>
+	<eng>and drink of the delicate wines of the spirit.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>zabaan dar taf.siil-i iin sih vaadii `aajiz ast va bayaan
+	  bi-ghaayat qaa.sir</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>The tongue faileth in describing these three
+	  Valleys, and speech falleth short.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>qalam dar iin `ar.sih qadam nagudhaarad va midaad juz
+	  savaad thamar nayaarad</pers>
+      </orig>
+      <trans>
+	<eng>The pen steppeth not into this region, the ink leaveth only
+	  a blot.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bulbul-i qalb-raa dar iin maqaamaat navaa-haa-i diigar ast
+	  va asraar-i diigar</pers>
+      </orig>
+      <trans>
+	<eng>In these planes, the nightingale of the heart hath other
+	  songs and secrets,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>kih dil az uu bi-juush va ruu.h dar khuruush</pers>
+      </orig>
+      <trans>
+	<eng>which make the heart to stir and the soul to clamor,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va l_akin iin mu`ammaa-i ma`aanii-raa dil bi-dil baayad
+	  guft va siinih bi-siinih baayad sipurd</pers>
+      </orig>
+      <trans>
+	<eng>but this mystery of inner meaning may be whispered only
+	  from heart to heart, confided only from breast to
+	  breast.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="5in">shar.h-i .haal-i `aarifaan dil bi-dil
+	      tavaanad guft</line>
+	    <line len="5in">iin nah shiivih-i qaa.sid v iin nah .hadd-i
+	      maktuub ast</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>Only heart to heart can speak the bliss of mystic
+	      knowers;</line>
+	    <line>No messenger can tell it and no missive bear
+	      it.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>
+	  <poem>
+	    <line len="3.75in">vaaskut `ajzaN `an umuuri
+	      kathiiraTiN</line>
+	    <line len="3.75in">bi-nu.tqii lan tu.h.sY wa luu qultu
+	      qallatiN</line>
+	  </poem>
+	</arab>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>I am silent from weakness on many a matter,</line>
+	    <line>For my words could not reckon them and my speech would
+	      fall short.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey rafiiq taa bi-.hadiiqih-i iin ma`aanii narasii az
+	  khamr-i baaqii-i iin vaadii nachishii</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>O friend, till thou enter the garden of such
+	  mysteries, thou shalt never set lip to the undying wine of
+	  this Valley.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va agar chishii az gheyr chashm puushii va az baadih-i
+	  istighnaa binuushii</pers>
+      </orig>
+      <trans>
+	<eng>And shouldst thou taste of it, thou wilt shield thine eyes
+	  from all things else, and drink of the wine of
+	  contentment;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az hamih bugsalii va bih uu peyvandii va jaan dar
+	  rahash baazii va ravaan raayigaan bar-afshaanii</pers>
+      </orig>
+      <trans>
+	<eng>and thou wilt loose thyself from all things else, and bind
+	  thyself to Him, and throw thy life down in His path, and cast
+	  thy soul away.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>agar chih gheyr-ii dar iin maqaam niist taa chashm
+	  puushii <arab><quote>kaana al-ll_ahi wa lam yakun mi`ahu min
+	      shay'iN</quote></arab></pers>
+      </orig>
+      <trans>
+	<eng>However, there is no other in this region that thou need
+	  forget: <quote>There was God and there was naught beside
+	    Him.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa kih saalik dar iin rutbih jamaal-i duust-raa dar
+	  har shay' biinad</pers>
+      </orig>
+      <trans>
+	<eng>For on this plane the traveler witnesseth the beauty of the
+	  Friend in everything.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az naar rukhsaar-i yaar biinad va dar majaaz ramz-i
+	  .haqiiqat mulaa.hi.zih kunad va az .sifaat sirr-i huviiyat
+	  mushaahidih namaayad</pers>
+      </orig>
+      <trans>
+	<eng>Even in fire, he seeth the face of the Beloved.  He
+	  beholdeth in illusion the secret of reality, and readeth from
+	  the attributes the riddle of the Essence.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa pardih-haa-raa bi-aahii suukhtih va .hijaab-haa-raa
+	  bi-nigaahii bar-daashtih</pers>
+      </orig>
+      <trans>
+	<eng>For he hath burnt away the veils with his sighing, and
+	  unwrapped the shroudings with a single glance;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-ba.sar-i .hadiid dar .sun`-i jadiid seyr
+	  namaayad</pers>
+      </orig>
+      <trans>
+	<eng>with piercing sight he gazeth on the new creation;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bi-qalb-i raqiiq aathaar-i daqiqq idraak kunad</pers>
+      </orig>
+      <trans>
+	<eng>with lucid heart he graspeth subtle verities.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers><arab>wa ja`alnaa al-yuum ba.sarika .hadiidaN</arab>
+	  shaahidi maqaal va kaafii a.hvaal ast</pers>
+      </orig>
+      <trans>
+	<eng>This is sufficiently attested by: <quote>And we have made
+	    thy sight sharp in this day.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va saalik ba`d az seyr-i maraatib-i istighnaa-i ba.ht dar
+	  vaadii-i .heyrat vaa.sil miishavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>After journeying through the planes of pure
+	  contentment, the traveler cometh to the Valley of
+	  Wonderment</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar ba.hr-haa-i `a.zamat ghuu.tih miikhwurad va dar har
+	  aan bar .heyrat-ash mii-afzaayad</pers>
+      </orig>
+      <trans>
+	<eng>and is tossed in the oceans of grandeur, and at every
+	  moment his wonder groweth.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>gaah-ii haykal-i ghanaa-raa nafs-i faqr miibiinad va
+	  juwhar-i istighnaa-raa .sirf-i `ajz</pers>
+      </orig>
+      <trans>
+	<eng>Now he seeth the shape of wealth as poverty itself, and the
+	  essence of freedom as sheer impotence.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>gaah-ii ma.hv-i jamaal-i dhuu-al-jalaal miishavad va
+	  gaah-ii az vujuud-i khuwd biizaar</pers>
+      </orig>
+      <trans>
+	<eng>Now is he struck dumb with the beauty of the All-Glorious;
+	  again is he wearied out with his own life.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin .sar.sar-i .heyrat chih darakht-haa-i ma`aanii-raa kih
+	  az paa andaakht va chih nufuus-haa-raa kih az nafs
+	  bar-andaakht</pers>
+      </orig>
+      <trans>
+	<eng>How many a mystic tree hath this whirlwind of wonderment
+	  snatched by the roots, how many a soul hath it
+	  exhausted.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa kih iin vaadii saalik-raa dar inqilaab
+	  aavarad</pers>
+      </orig>
+      <trans>
+	<eng>For in this Valley the traveler is flung into
+	  confusion,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va liikan iin .zuhuuraat dar na.zar-i vaa.sil bisyaar
+	  ma.hbuub va marghuub ast</pers>
+      </orig>
+      <trans>
+	<eng>albeit, in the eye of him who hath attained, such marvels
+	  are esteemed and well beloved.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar har aan `aalam-i badii`-ii va khalq-i jadiid-ii
+	  mushaahidih kunad</pers>
+      </orig>
+      <trans>
+	<eng>At every moment he beholdeth a wondrous world, a new
+	  creation,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va .heyrat bar .heyrat afzaayad ma.hv-i .sun`-i jadiid-i
+	  sul.taan-i a.hadiyyih shavad</pers>
+      </orig>
+      <trans>
+	<eng>and goeth from astonishment to astonishment, and is lost in
+	  awe at the works of the Lord of Oneness.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>balii ey baraadar agar dar har khalq-ii tafakur
+	  namaa'iim</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Indeed, O Brother, if we ponder each created
+	  thing,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.sad hizaar .hikmat-i baalighih biiniim va .sad hizaar
+	  `uluum-i badii`ih bii-aamuuziim</pers>
+      </orig>
+      <trans>
+	<eng>we shall witness a myriad perfect wisdoms and learn a
+	  myriad new and wondrous truths.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az jumlih makhluuqaat nuwm ast</pers>
+      </orig>
+      <trans>
+	<eng>One of the created phenomena is the dream. -- jww:
+	  jumlih-i?</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mulaa.hi.zih kun chiqadr asraar dar uu vadii`ih gudhaastih
+	  shudih ast</pers>
+      </orig>
+      <trans>
+	<eng>Behold how many secrets are deposited therein,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va chih .hikmat-haa dar uu makhzuun gashtih ast va chih
+	  `avaalim dar uu mastuur maandih</pers>
+      </orig>
+      <trans>
+	<eng>how many wisdoms treasured up, how many worlds
+	  concealed.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mulaa.hi.zih farmaa'iid kih shumaa dar bayt-ii
+	  miikhwaabiid va dar-haa-i aan bayt bastih ast</pers>
+      </orig>
+      <trans>
+	<eng>Observe, how thou art asleep in a dwelling, and its doors
+	  are barred;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>yik martabih khuwd-raa dar shahr-i ba`iid-ii mushaahidih
+	  miikuniid bii .harikat-i rijl va ta`ab-i jasad bi-aan shahr
+	  daakhil miishaviid</pers>
+      </orig>
+      <trans>
+	<eng>on a sudden thou findest thyself in a far-off city, which
+	  thou enterest without moving thy feet or wearying thy
+	  body;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bii za.hmat-i chashm mushaahidih miikuniid va bii
+	  mi.hnat-i guush miishinaviid vi bii lisaan takalum
+	  miinamaa'iid</pers>
+      </orig>
+      <trans>
+	<eng>without using thine eyes, thou seest; without taxing thine
+	  ears, thou hearest; without a tongue, thou speakest.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va gaahast kih aanchih imshab diidih-iid daH saal ba`d dar
+	  `aalam-i zamaan bi-.hasab-i .zaahir bi-`eynih aanchih dar
+	  khwaab diidih-iid miibiiniid</pers>
+      </orig>
+      <trans>
+	<eng>And perchance when ten years are gone, thou wilt witness in
+	  the outer world the very things thou hast dreamed
+	  tonight.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.haal chand .hikmat ast kih dar iin nuwm mashhuud
+	  ast</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Now there are many wisdoms to ponder in the
+	  dream,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va gheyr-i ahl-i iin vaadii bar kamaahiya idraak
+	  nimiikunand</pers>
+      </orig>
+      <trans>
+	<eng>which none but the people of this Valley can comprehend in
+	  their true elements.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>avval aankih aan chih `aalam ast kih bii chashm va guush
+	  va dast va lisaan .hukm-i hamih iin-haa dar uu ma`muul
+	  miishavad</pers>
+      </orig>
+      <trans>
+	<eng>First, what is this world, where without eye and ear and
+	  hand and tongue a man puts all of these to use?</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va thaanii aankih dar `aalam-i .zuhuur athar-i khwaab-raa
+	  imruuz mushaahidih miikunii va liikan iin seyr-raa dar `aalam
+	  nuwm dar daH saal qabl diidih'</pers>
+      </orig>
+      <trans>
+	<eng>Second, how is it that in the outer world thou seest today
+	  the effect of a dream, when thou didst vision it in the world
+	  of sleep some ten years past?</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.haal tafakkur namaa farq-i iin do `aalam va asraar-i
+	  muwdi`ih-i aan-raa taa bita'yiidaat va mukaashifaat-i
+	  sub.haan-ii faa'iz shavii va pey bi-`aalam-i quds barii</pers>
+      </orig>
+      <trans>
+	<eng>Consider the difference between these two worlds and the
+	  mysteries which they conceal, that thou mayest attain to
+	  divine confirmations and heavenly discoveries and enter the
+	  regions of holiness.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin aayaat-raa .ha.drat-i baar-ii dar khalq gudhaashtih
+	  taa mu.haqqiqiin inkaar-i asraar-i mu`aad nakunand va
+	  bi-aanchih va`dih daadih shudih-and sahl nashmurand</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>God, the Exalted, hath placed these signs in men,
+	  to the end that philosophers may not deny the mysteries of the
+	  life beyond nor belittle that which hath been promised
+	  them.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mithl-i iin-kih ba`.d-ii tamasuk bi-`aql justih va aanchih
+	  bi-`aql nayaayad inkaar namaayand</pers>
+      </orig>
+      <trans>
+	<eng>For some hold to reason and deny whatever the reason
+	  comprehendeth not,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va .haal aan-kih hargiz `uquul-i .da`iifih hamiin
+	  maraatib-i madhkuurih-raa idraak nakunad magar `aql-i kullii-i
+	  rabbaanii</pers>
+      </orig>
+      <trans>
+	<eng>and yet weak minds can never grasp the matters which we
+	  have related, but only the Supreme, Divine Intelligence can
+	  comprehend them:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="4.75in">`aql-i juz'ii key tavaanad gasht bar
+	      qur'aan mu.hii.t</line>
+	    <line len="4.75in">`ankabuut-ii key tavaanad kard
+	      siimurgh-ii shikaar</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>How can feeble reason encompass
+	      the <pers>^qur'aan</pers>,</line>
+	    <line>Or the spider snare a phoenix in his web?</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin `avaalim kull dar vaadii-i .heyrat dast dahad va
+	  mushaahidih gardad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>All these states are to be witnessed in the Valley
+	  of Wonderment,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va saalik dar har aan ziiaadatii .talab namaayad va kasil
+	  nashavad</pers>
+      </orig>
+      <trans>
+	<eng>and the traveler at every moment seeketh for more, and is
+	  not wearied.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast kih siyyid-i avvaliin va aakhiriin dar maraatib-i
+	  fikrat va i.zhaar-i .heyrat <arab><quote>rabbi zidnii fiika
+	      ta.hayyuraa</quote></arab> farmuudih</pers>
+      </orig>
+      <trans>
+	<eng>Thus the Lord of the First and the Last in setting forth
+	  the grades of contemplation, and expressing wonderment hath
+	  said: <quote>O Lord, increase my astonishment at
+	    Thee!</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va hamchiniin tafakur dar tamaamiyat-i khalq-i insaan
+	  kun</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Likewise, reflect upon the perfection of man's
+	  creation,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>kih iin hamih `avaalim va iin hamih maraatib dar uu
+	  mun.tavii va mastuur shudih</pers>
+      </orig>
+      <trans>
+	<eng>and that all these planes and states are folded up and
+	  hidden away within him.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>
+	  <poem>
+	    <line len="3.1in">ata.hsba innika jurmiN .saghiir</line>
+	    <line len="3.1in">wa fiika an.tavY al-`aalama
+	      al-akbar</line>
+	  </poem>
+	</arab>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>Dost thou reckon thyself only a puny form</line>
+	    <line>When within thee the universe is folded?</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>pas jahd-ii baayad kih rutbih-i .heyvaanii ma`duum kuniim
+	  taa ma`nii-i insaanii .zaahir shavad</pers>
+      </orig>
+      <trans>
+	<eng>Then we must labor to destroy the animal condition, till
+	  the meaning of humanity shall come to light.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>hamchiniin luqmaan kih az chashmih-i .hikmat nuushiidih va
+	  az ba.hr-i ra.hmat chashiidih</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Thus, too, <pers>^luqmaan</pers>, who had drunk
+	  from the wellspring of wisdom and tasted of the waters of
+	  mercy,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>bi-pisar-ash naataan bi-jahat-i ithbaat-i maqaamaat-i
+	  .hashr va muwt hamiin khwaab-raa daliil aavurdih va mathal
+	  zadih</pers>
+      </orig>
+      <trans>
+	<eng>in proving to his son Nathan the planes of resurrection and
+	  death, advanced the dream as an evidence and an example.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dariin maqaam dhikr miinamaa'iim taa dhikr-ii az aan
+	  javaan-i ma.s.tabih-i tuw.hiid va piir-i maraatib-i ta`liim va
+	  tajriid az iin bandih-i faanii baaqii bimaanad</pers>
+      </orig>
+      <trans>
+	<eng>We relate it here, that through this evanescent Servant a
+	  memory may endure of that youth of the school of Divine Unity,
+	  that elder of the art of instruction and the Absolute.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>farmuud ey pisar agar qaadir baashii kih nakhwaabii pas
+	  qaadir-ii bar aankih namiirii</pers>
+      </orig>
+      <trans>
+	<eng>He said: <quote-beg/>O Son, if thou art able not to sleep,
+	  then thou art able not to die.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va agar bitavaanii ba`d az khwaab biidaar nashavii
+	  miitavaanii kih ba`d az marg ma.hshuur nagardii</pers>
+      </orig>
+      <trans>
+	<eng>And if thou art able not to waken after sleep, then thou
+	  shalt be able not to rise after death.<quote-end/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey duust dil kih mu.hall-i asraar-i baaqiyih ast</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>O friend, the heart is the dwelling of eternal
+	  mysteries,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>mu.hall-i afkaar-i faanyih makun va sarmaayih-i `umr-i
+	  giraan-maayih-raa bi-ishtighaal-i dunyaa-i faanyih az dast
+	  madih</pers>
+      </orig>
+      <trans>
+	<eng>make it not the home of fleeting fancies; waste not the
+	  treasure of thy precious life in employment with this swiftly
+	  passing world.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az `aalam-i qudsii bi-turaab dil maband</pers>
+      </orig>
+      <trans>
+	<eng>Thou comest from the world of holiness<emdash/>bind not
+	  thine heart to the earth;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ahl-i basaa.t-i uns-ii va.tan-i khaakii mapasand</pers>
+      </orig>
+      <trans>
+	<eng>thou art a dweller in the court of nearness<emdash/>choose
+	  not the homeland of the dust.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>baar-ii dhikr-i iin maraatib-raa intihaa'ii nah</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>In sum, there is no end to the description of
+	  these stages,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin bandih-raa az .sadamih-i ahl-i ruuz-i gaar
+	  a.hvaal-ii nah</pers>
+      </orig>
+      <trans>
+	<eng>but because of the wrongs inflicted by the peoples of the
+	  earth, this Servant is in no mood to continue:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="3.5in">iin sukhan naaqi.s bimaand va
+	      bii-qaraar</line>
+	    <line len="3.5in">dil nadaaram bii-dilam ma`dhuur
+	      daar</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>The tale is still unfinished and I have no heart for
+	      it<emdash/></line>
+	    <line>Then pray forgive me.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>qalam naalih miikunad va midaad miigiryad va jey.huun-i
+	  dil khuun muwj miizanad</pers>
+      </orig>
+      <trans>
+	<eng>The pen groaneth and the ink sheddeth tears, and the river
+	  of the heart moveth in waves of blood.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab><quote>lan yu.siibanaa ilaa maakitaba al-ll_ahi
+	    lanaa</quote></arab>
+      </orig>
+      <trans>
+	<eng><quote>Nothing can befall us but what God hath destined for
+	    us.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa as-salaamu `alY man ittaba`a al-hudY</arab>
+      </orig>
+      <trans>
+	<eng>Peace be upon him who followeth the Right Path!</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va saalik ba`d az irtiqaa-i bi-maraatib-i buland-i .heyrat
+	  bi-vaadii-i faqr-i .haqiiqii va fanaa-i a.slii vaarid
+	  shavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>After scaling the high summits of wonderment the
+	  wayfarer cometh to the Valley of True Poverty and Absolute
+	  Nothingness.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin rutbih maqaam-i fanaa-i az nafs va baqaa-i
+	  bi-al-ll_ah ast</pers>
+      </orig>
+      <trans>
+	<eng>This station is the dying from self and the living in
+	  God,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va faqr az khuwd va ghanaa-i bi-maq.suud ast</pers>
+      </orig>
+      <trans>
+	<eng>the being poor in self and rich in the Desired One.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar iin maqaam kih dhikr-i faqr miishavad ya`nii faqiir
+	  ast az aanchih dar `aalam-i khalq ast va ghanii ast bi-aanchih
+	  dar `avaalim-i .haq ast</pers>
+      </orig>
+      <trans>
+	<eng>Poverty as here referred to signifieth being poor in the
+	  things of the created world, rich in the things of God's
+	  world.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa kih `aashiq-i .saadiq va .habiib-i muvaafiq chuun
+	  biliqaa-i ma.hbuub va ma`shuuq rasiid</pers>
+      </orig>
+      <trans>
+	<eng>For when the true lover and devoted friend reacheth to the
+	  presence of the Beloved,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az partuwi jamaal-i ma.hbuub va aatish-i qalb-i .habiib
+	  naar-ii mushta`il shavad va jamii`-i saraadiqaat va .hujubaat
+	  raa bisuuzaanad</pers>
+      </orig>
+      <trans>
+	<eng>the sparkling beauty of the Loved One and the fire of the
+	  lover's heart will kindle a blaze and burn away all veils and
+	  wrappings.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>balkih aanchih baa uu ast .hattY maghz va puust mu.htariq
+	  gardad va juz duust chiiz-ii namaanad</pers>
+      </orig>
+      <trans>
+	<eng>Yea, all he hath, from heart to skin, will be set aflame,
+	  so that nothing will remain save the Friend.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="3.75in">chuun tajallii kard uw.saaf-i
+	      qadiim</line>
+	    <line len="3.75in">pas bisuuzad va.sf-i .haadith-raa
+	      kaliim</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>When the qualities of the Ancient of Days stood
+	      revealed,</line>
+	    <line>Then the qualities of earthly things did Moses burn
+	      away.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar iin maqaam vaa.sil muqaddas ast az aanchih
+	  muta`alliq bi-dunyaa-st</pers>
+      </orig>
+      <trans>
+	<eng>He who hath attained this station is sanctified from all
+	  that pertaineth to the world.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>pas agar dar nazd-i vaa.siliin-i ba.hr-i vi.saal az
+	  ashyaa'i ma.hduudih kih muta`alliq bi-`aalam-i faanii ast
+	  yaaft nashavad</pers>
+      </orig>
+      <trans>
+	<eng>Wherefore, if those who have come to the sea of His
+	  presence are found to possess none of the limited things of
+	  this perishable world,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>chih az amvaal-i .zaahiriyyih baashad va chih az
+	  tafakkuraat-i nafsiyyih ba's-ii niist</pers>
+      </orig>
+      <trans>
+	<eng>whether it be outer wealth or personal opinions, it
+	  mattereth not.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa kih aanchih nazd-i khalq ast ma.hduud ast
+	  bi-.haduud-i iishaan va aanchih nazd-i .haq ast muqaddas az
+	  aan</pers>
+      </orig>
+      <trans>
+	<eng>For whatever the creatures have is limited by their own
+	  limits, and whatever the True One hath is sanctified
+	  therefrom;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin bayaan-raa bisyaar fikr baayad taa paayaan aashkaar
+	  shavad</pers>
+      </orig>
+      <trans>
+	<eng>this utterance must be deeply pondered that its purport may
+	  be clear.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab><quote>inna al-abraar yashribuuna min ka'si kaana
+	    mizaajihaa kaafuuraa</quote></arab>
+      </orig>
+      <trans>
+	<eng><quote>Verily the righteous shall drink of a winecup
+	    tempered at the camphor fountain.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>agar ma`nii-i kaafuur ma`luum shavad maq.suud-i .haqiiqii
+	  ma`luum gardad</pers>
+      </orig>
+      <trans>
+	<eng>If the interpretation of <quote>camphor</quote> become
+	  known, the true intention will be evident.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin maqaam az faqr ast kih
+	  miifarmaayad <arab><quote>al-faqru
+	      fakhrii</quote></arab></pers>
+      </orig>
+      <trans>
+	<eng>This state is that poverty of which it is
+	  said, <quote>Poverty is My glory.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va az baraa-i faqr-i baa.tinii va .zaahirii maraatib-haa
+	  va ma`nii-haa ast kih dhikr aan-raa munaasib-i iin maqaam
+	  nadiidam</pers>
+      </orig>
+      <trans>
+	<eng>And of inward and outward poverty there is many a stage and
+	  many a meaning which I have not thought pertinent to mention
+	  here;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>lih_adhaa bi-`uhdih-i vaqt-ii gudhaashtam taa khudaa chih
+	  khwaahad va qa.daa chih im.daa namaayad</pers>
+      </orig>
+      <trans>
+	<eng>hence I have reserved these for another time, dependent on
+	  what God may desire and fate may seal.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin maqaam ast kih katharaat-i kull-i shay' dar saalik
+	  haalik shavad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>This is the plane whereon the vestiges of all
+	  things are destroyed in the traveler,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va .tal`at-i vajh az mashriq-i baqaa sar az ghi.taa
+	  biiruun aavarad</pers>
+      </orig>
+      <trans>
+	<eng>and on the horizon of eternity the Divine Face riseth out
+	  of the darkness,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va ma`nii-i <arab><quote>kulli shay'iN haalak illaa
+	      wajhihu</quote></arab> mashhuud gardad</pers>
+      </orig>
+      <trans>
+	<eng>and the meaning of <quote>All on the earth shall pass away,
+	    but the face of thy Lord...</quote> is made manifest.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey .habiib-i man naghamaat-i ruu.h-raa bi-jaan va dil
+	  guush kun va chuun ba.sar .hif.z-ash namaa</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>O My friend, listen with heart and soul to the
+	  songs of the spirit, and treasure them as thine own
+	  eyes.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>kih hamiishih-i ayyaam ma`aarif-i il_ahii bi-mathaabih
+	  abr-i neysaanii bar araa.dii-i quluub-i insaanii jaarii
+	  niist</pers>
+      </orig>
+      <trans>
+	<eng>For the heavenly wisdoms, like the clouds of spring, will
+	  not rain down on the earth of men's hearts forever;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>agar chih fey.d-i fayyaa.d-raa ta`.tiil-ii va ta`viiq-ii
+	  nah</pers>
+      </orig>
+      <trans>
+	<eng>and though the grace of the All-Bounteous One is never
+	  stilled and never ceasing,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va l_akin har zamaan va `a.sr-raa rizq-ii ma`luum va
+	  ni`mat-ii muqaddar ast va bi-qadr va andaazih ifaa.dih
+	  miishavad</pers>
+      </orig>
+      <trans>
+	<eng>yet to each time and era a portion is allotted and a bounty
+	  set apart, this in a given measure.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab><quote>wa in min shay'iN illaa `indanaa khazaa i'nahu wa
+	    maa nazzalahu illaa biqadriN ma`luum</quote></arab>
+      </orig>
+      <trans>
+	<eng><quote>And no one thing is there, but with Us are its
+	    storehouses; and We send it not down but in settled
+	    measure.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>sa.haab-i ra.hmat-i jaanaan juz bar riiaa.d-i jaan
+	  nabaarad va dar gheyr-i bahaar-aan iin karam
+	  nafarmaayad</pers>
+      </orig>
+      <trans>
+	<eng>The cloud of the Loved One's mercy raineth only on the
+	  garden of the spirit, and bestoweth this bounty only in the
+	  season of spring.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>fu.suul diigar-raa az iin fa.dl-i akbar na.siib-ii niist
+	  va araa.dii-i jarzih-raa az iin karam qismat-ii nah</pers>
+      </orig>
+      <trans>
+	<eng>The other seasons have no share in this greatest grace, and
+	  barren lands no portion of this favor.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey baraadar har ba.hr-ii lu'lu' nadaarad va har shaakh-ii
+	  gul nayaarad va bulbul bar aan nasaraayad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>O Brother!  Not every sea hath pearls; not every
+	  branch will flower, nor will the nightingale sing
+	  thereon.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>pas taa bulbul-i buustaan-i ma`navii bi-gulistaan-i
+	  il_ahii baaz nagasht</pers>
+      </orig>
+      <trans>
+	<eng>Then, ere the nightingale of the mystic paradise repair to
+	  the garden of God,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va anvaar-i .sub.h-i ma`aanii bi-shams-i .haqiiqii raaji`
+	  nashud</pers>
+      </orig>
+      <trans>
+	<eng>and the rays of the heavenly morning return to the Sun of
+	  Truth<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>sa`ii kuniid kih shaayad dar iin gulkhan-i faanii buu'ii
+	  az gulshin-i baaqii bishnaviid</pers>
+      </orig>
+      <trans>
+	<eng>make thou an effort, that haply in this dustheap of the
+	  mortal world thou mayest catch a fragrance from the
+	  everlasting garden,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar .zil-i ahl-i iin madiinih-i jaaviid
+	  bimaaniid</pers>
+      </orig>
+      <trans>
+	<eng>and live forever in the shadow of the peoples of this
+	  city.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va chuun bi-iin rutbih-i buland-i a`lY rasiidii va bi-iin
+	  darajih-i `u.zmY faa'iz shudii</pers>
+      </orig>
+      <trans>
+	<eng>And when thou hast attained this highest station and come
+	  to this mightiest plane,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>yaar biinii va aghyaar faraamuush kunii</pers>
+      </orig>
+      <trans>
+	<eng>then shalt thou gaze on the Beloved, and forget all
+	  else.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="3.5in">yaar bii-pardih az dar o diivaar</line>
+	    <line len="3.5in">dar tajallii-ast yaa uulii
+	      al-ab.saar</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>The Beloved shineth on gate and wall</line>
+	    <line>Without a veil, O men of vision.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>az qa.trih-i jaan gudhashtii va bi-ba.hr-i jaanaan vaa.sil
+	  shudii</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Now hast thou abandoned the drop of life and come
+	  to the sea of the Life-Bestower.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin-ast maq.suud-ii kih .talab farmuudii inshaa al-ll_ah
+	  bi-aan faa'iz shavii</pers>
+      </orig>
+      <trans>
+	<eng>This is the goal thou didst ask for; if it be God's will,
+	  thou wilt gain it.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar iin madiinih .hujibaat-i nuur ham kharq miishavad va
+	  zaa'il miigardad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>In this city, even the veils of light are split
+	  asunder and vanish away.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab><quote>laa lijamaalihu .hijaabiN savY an-nuur wa laa
+	    livajhihi niqaabiN illaa a.z-.zuhuur</quote></arab>
+      </orig>
+      <trans>
+	<eng><quote>His beauty hath no veiling save light, His face no
+	    covering save revelation.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey `ajab kih yaar chuun shams aashkaar va aghyaar dar
+	  .talab-i zakhaaruf va diinaar</pers>
+      </orig>
+      <trans>
+	<eng>How strange that while the Beloved is visible as the sun,
+	  yet the heedless still hunt after tinsel and base metal.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>balii az shiddat-i .zuhuur pinhaan maandih va az kithrat
+	  buruuz makhfii gashtih</pers>
+      </orig>
+      <trans>
+	<eng>Yea, the intensity of His revelation hath covered Him, and
+	  the fullness of His shining forth hath hidden Him.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="4in">.haq `ayaan chuun mihr-i rakhshaan
+	      aamadih</line>
+	    <line len="4in">.heyf kandar shahr-i kuuraan aamadih</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>Even as the sun, bright hath He shined,</line>
+	    <line>But alas, He hath come to the town of the
+	      blind!</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar iin vaadii saalik maraatib-i va.hdat-i vujuud va
+	  shuhuud-raa .tey namaayad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>In this Valley, the wayfarer leaveth behind him
+	  the stages of the <quote>oneness of Being and
+	    Manifestation</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bi-va.hdat-ii kih muqaddas az iin do maqaam ast vaa.sil
+	  gardad</pers>
+      </orig>
+      <trans>
+	<eng>and reacheth a oneness that is sanctified above these two
+	  stations.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>a.hvaal pey bi-iin maqaal barad nah bayaan va
+	  jidaal</pers>
+      </orig>
+      <trans>
+	<eng>Ecstasy alone can encompass this theme, not utterance nor
+	  argument;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va har kas dar-iin ma.hfil manzil guziidih va yaa az iin
+	  riiaa.d nasiim-ii yaaftih miidaanad chih `ar.d
+	  miishavad</pers>
+      </orig>
+      <trans>
+	<eng>and whosoever hath dwelt at this stage of the journey, or
+	  caught a breath from this garden land, knoweth whereof We
+	  speak.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va saalik baayad dar jamii`-i iin asfaar bi-qadr-i
+	  sha`r-ii az sharii`at kih fii al-.haqiiqih sirr-i .tariiqat va
+	  thamarih-i shajrih-i .haqiiqat ast in.hiraaf navarzad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>In all these journeys the traveler must stray not
+	  the breadth of a hair from the <quote>Law,</quote> for this is
+	  indeed the secret of the <quote>Path</quote> and the fruit of
+	  the Tree of
+	  <quote>Truth</quote>;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va dar hamih-i maraatib bidheyl-i i.taa`at-i avaamir
+	  mutashabbith baashad</pers>
+      </orig>
+      <trans>
+	<eng>and in all these stages he must cling to the robe of
+	  obedience to the commandments,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va bi-.habl-i i`raa.d az manaahii mutamassik taa az ka's-i
+	  sharii`at marzuuq shavad va bar asraar-i .haqiiqat vaaqif
+	  gardad</pers>
+      </orig>
+      <trans>
+	<eng>and hold fast to the cord of shunning all forbidden things,
+	  that he may be nourished from the cup of the Law and informed
+	  of the mysteries of Truth.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va har chih az bayaanaat-i iin bandih mafhuum nashavad va
+	  tazalzul-ii i.hdaath kunad baayad mujaddad su'aal shavad taa
+	  shubhih namaanad</pers>
+      </orig>
+      <trans>
+	<eng>If any of the utterances of this Servant may not be
+	  comprehended, or may lead to perturbation, the same must be
+	  inquired of again, that no doubt may linger,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va maq.suud chuun .tal`at-i ma.hbuub az maqaam-i ma.hmuud
+	  .zaahir gardad</pers>
+      </orig>
+      <trans>
+	<eng>and the meaning be clear as the Face of the Beloved One
+	  shining from the <quote>Glorious Station.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin asfaar kih aan-raa dar `aalam-i zamaan intihaa'ii
+	  padiid niist</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>These journeys have no visible ending in the world
+	  of time,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>saalik-i munqa.ti`-raa agar i`aanat-i gheybii birasad va
+	  valii-i amr madad farmaayad</pers>
+      </orig>
+      <trans>
+	<eng>but the severed wayfarer<emdash/>if invisible confirmation
+	  descend upon him and the Guardian of the Cause assist
+	  him<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>iin haft rutbih-raa dar haft qadam .tey namaayad balkih
+	  dar haft nafas balkih dar yik nafas <arab>idhaa shaa'
+	    al-ll_aha</arab></pers>
+      </orig>
+      <trans>
+	<eng>may cross these seven stages in seven steps, nay rather in
+	  seven breaths, nay rather in a single breath, if God will and
+	  desire it.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa araada wadh_alika min fa.dlihi `alY man yashaa'</arab>
+      </orig>
+      <trans>
+	<eng>And this is of <quote>His grace on such of His servants as
+	    He pleaseth.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>.taayiraan-i havaa-i tuw.hiid va vaa.silaan-i lujjih-i
+	  tajriid iin maqaam-raa kih maqaam-i baqaa' bi-al-ll_ah
+	  ast</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>They who soar in the heaven of singleness and
+	  reach to the sea of the Absolute, reckon this city<emdash/>
+	  which is the station of life in God<emdash/></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>dar iin madiinih muntahY rutbih-i `aarifaan va muntahY
+	  va.tan-i `aashiqaan shumurdih-and</pers>
+      </orig>
+      <trans>
+	<eng>as the furthermost state of mystic knowers, and the
+	  farthest homeland of the lovers.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va nazd-i iin faanii ba.hr-i ma`nii-i iin maqaam avval
+	  shahr band-i dil ast</pers>
+      </orig>
+      <trans>
+	<eng>But to this evanescent One of the mystic ocean, this
+	  station is the first gate of the heart's citadel,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ya`anii avval varuud-i insaan ast bi-madiinih-i
+	  qalb</pers>
+      </orig>
+      <trans>
+	<eng>that is, man's first entrance to the city of the
+	  heart;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va qalb-raa chihaar rutbih muqarrar ast</pers>
+      </orig>
+      <trans>
+	<eng>and the heart is endowed with four stages</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>agar ahl-ash yaaft shud madhkuur aayad</pers>
+      </orig>
+      <trans>
+	<eng>which would be recounted should a kindred soul be
+	  found.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>
+	  <poem>
+	    <line len="4.25in">chuun qalam dar va.sf-i iin .haalat
+	      rasiid</line>
+	    <line len="4.25in">ham qalam bi-shikast o ham kaaghadh
+	      dariid</line>
+	  </poem>
+	</pers>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>When the pen set to picturing this station,</line>
+	    <line>It broke in pieces and the page was torn.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa as-salaam</arab>
+      </orig>
+      <trans>
+	<eng><pers>^salaam</pers>!</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey .habiib-i man iin ghazaal-i .sa.hraa-i a.hadiyyih-raa
+	  kalaab-ii chand dar pey</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>O My friend!  Many a hound pursueth this gazelle
+	  of the desert of oneness;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin bulbul-i bustaan-i .samadiyyih-raa manqaar-ii chand
+	  dar ta`aaqub</pers>
+      </orig>
+      <trans>
+	<eng>many a talon claweth at this thrush of the eternal
+	  garden.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin .taayir-i havaa-i il_ahii-raa ghuraab-i kiin dar
+	  kamiin va iin .seyd-i barr-i `ishq-raa .sayyaad-i .hasad dar
+	  `aqab</pers>
+      </orig>
+      <trans>
+	<eng>Pitiless ravens do lie in wait for this bird of the heavens
+	  of God, and the huntsman of envy stalketh this deer of the
+	  meadow of love.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ey sheykh himat-raa zujaaj kun kih shaayad iin siraaj-raa
+	  az baad-haa-i mukhaalif .hif.z namaayad</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>O <pers>^shaykh</pers>!  Make of thine effort a
+	  glass, perchance it may shelter this flame from the contrary
+	  winds;</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>agar chih iin siraaj-raa umiid chinaan ast kih dar
+	  zujaajih-i il_ahii mushta`il gardad va dar mushkuuT-i ma`navii
+	  bar-afruuzad</pers>
+      </orig>
+      <trans>
+	<eng>albeit this light doth long to be kindled in the lamp of
+	  the Lord, and to shine in the globe of the spirit.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>ziiraa gardan-ii kih bi-`ishq-i il_ahii buland shud
+	  albatih bi-shamshiir uftad</pers>
+      </orig>
+      <trans>
+	<eng>For the head raised up in the love of God will certainly
+	  fall by the sword,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va sar-ii kih bi-.hubb bar-afraakht albattih bi-baad
+	  ravad</pers>
+      </orig>
+      <trans>
+	<eng>and the life that is kindled with longing will surely be
+	  sacrificed,</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va qalb-ii kih bi-dhikr ma.hbuub peyvast albattih pur
+	  khuun gardad</pers>
+      </orig>
+      <trans>
+	<eng>and the heart which remembereth the Loved One will surely
+	  brim with blood.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>fana`am maa qaal</arab>
+      </orig>
+      <trans>
+	<eng>How well is it said:</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>
+	  <poem>
+	    <line len="4in">wa`ash khaaliyaN fa-al-.hubbi raa.hataN
+	      `anaa</line>
+	    <line len="4in">fa-avvalahu suqmiN wa aakhirihu'
+	      qatliN</line>
+	  </poem>
+	</arab>
+      </orig>
+      <trans>
+	<eng>
+	  <poem>
+	    <line>Live free of love, for its very peace is
+	      anguish;</line>
+	    <line>Its beginning is pain, its end is death.</line>
+	  </poem>
+	</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa as-salaamu `alY man ittaba`a al-hudY</arab>
+      </orig>
+      <trans>
+	<eng><newpar/>Peace be upon him who followeth the Right
+	  Path!</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>aanchih az badaayi`-i fikr dar ma`nii-i .tayr-i ma`ruuf
+	  kih bi-faarsii gunjishk miinaamand dhikr farmuudand ma`luum va
+	  mu.haqqaq shud</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>The thoughts thou hast expressed as to the
+	  interpretation of the common species of bird that is called in
+	  Persian <pers>^gunjishk</pers> (sparrow) were
+	  considered.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>guuyaa bar asraar-i ma`aanii vaaqif shudih-and</pers>
+      </orig>
+      <trans>
+	<eng>Thou appearest to be well-grounded in mystic truth.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va l_akin har .harf-ii-raa dar har `aalam-ii bi-iqti.daa-i
+	  aan maq.suud-ii muqarrar ast</pers>
+      </orig>
+      <trans>
+	<eng>However, on every plane, to every letter a meaning is
+	  allotted which relateth to that plane.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>balii saalikiin az har ism-ii ramz-ii va az har .harf-ii
+	  sirr-ii idraak miinamaayand</pers>
+      </orig>
+      <trans>
+	<eng>Indeed, the wayfarer findeth a secret in every name, a
+	  mystery in every letter.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<pers>va iin .huruufaat dar maqaam-ii ishaarih bi-taqdiis
+	  ast</pers>
+      </orig>
+      <trans>
+	<eng>In one sense, these letters refer to holiness.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>k ay kaffa nafsika `ammaa yashtahiihu huwa 'aka thumma
+	  aqbil ilY muwl_a'ika</arab>
+      </orig>
+      <trans>
+	<eng><pers>^<newpar/>kaaf</pers> or <pers>^gaaf</pers> (K or G)
+	  referreth to <pers>^kuffih</pers> (<quote>free</quote>), that
+	  is, <quote>Free thyself from that which thy passion desireth;
+	    then advance unto thy Lord.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>n nazih nafsika `ammaa sava'ih litafdiya bi-ruu.hika fii
+	  hava'ih</arab>
+      </orig>
+      <trans>
+	<eng><newpar/><pers>^nuun</pers> referreth
+	  to <pers>^nazzih</pers> (<quote>purify</quote>), that
+	  is, <quote>Purify thyself from all else save Him, that thou
+	    mayest surrender thy life in His love.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>j jaanibi jinaabu al-.haqq in baqiya fiika min .sifaati
+	  al-khalq</arab>
+      </orig>
+      <trans>
+	<eng><newpar/><pers>^jiim</pers> is <pers>^jaanib</pers>
+	  (<quote>draw back</quote>), that is, <quote>Draw back from the
+	    threshold of the True One if thou still possessest earthly
+	    attributes.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>sh ashkur rabbika fii ar.dihu liyashkurika fii samaa'ihu
+	  wa in kaanati as-samaa' fii `aalamu al-a.hadiyyih nafsi
+	  ar.dahu</arab>
+      </orig>
+      <trans>
+	<eng><newpar/><pers>^shiin</pers> is <pers>^ashkur</pers>
+	  (<quote>thank</quote>)<emdash/><quote>Thank thy Lord on His
+	    earth that He may bless thee in His heaven; albeit in the
+	    world of oneness, this heaven is the same as His
+	    earth.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>k kaffir `anka al-.hujibaati al-ma.hduudaTi lita`rifa
+	  maalaa `araftahu min al-maqaamaati al-qudsiyyaTi wa inaka
+	  luwtasma`a naghamaat</arab>
+      </orig>
+      <trans>
+	<eng><newpar/><pers>^kaaf</pers> referreth
+	  to <pers>^kaffir</pers>, that is: <quote>Take off from thyself
+	    the wrappings of limitations, that thou mayest come to know
+	    what thou hast not known of the states of
+	    Sanctity.</quote></eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>h_adhahi a.t-.teyri al-faaniyaT lita.tluba min al-ku'usi
+	  al-baaqiyyaTi ad-daa'imaT wa tatraka al-ku'ubi al-faaniyyaTi
+	  az-zaa'ilaT</arab>
+      </orig>
+      <trans>
+	<eng><newpar/>Wert thou to harken to the melodies of this mortal
+	  Bird, then wouldst thou seek out the undying chalice and pass
+	  by every perishable cup.</eng>
+      </trans>
+    </text>
+  </verse>
+  <verse>
+    <text>
+      <orig>
+	<arab>wa as-salaamu `alY man ittaba`a al-hudY</arab>
+      </orig>
+      <trans>
+	<eng><newpar/>Peace be upon those who walk in the Right
+	  Path!</eng>
+      </trans>
+    </text>
+  </verse>
+</tablet>

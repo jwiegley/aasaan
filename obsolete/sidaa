@@ -1,0 +1,35 @@
+#!/usr/bin/env perl
+
+use aasaan;
+
+# sidaa (sound), version 1.0
+#   by John Wiegley <johnw@gnu.org>
+#
+# This script will attempt to auto-vowellize its input based on the
+# definitions provided in Steingass.
+
+%headwords = ();
+
+open (WORDS, "words") || die;
+while (<WORDS>) {
+    chomp;
+    $headwords{$_} = 1;
+}
+close WORDS;
+
+$| = 1;
+while (<ARGV>) {
+    chomp;
+
+    my @words = split;
+    for $word (@words) {
+	@query = aasaan::similar($word);
+	my $w, $count = 0;
+	for $item (@query) {
+	    $w = $item, $count++ if exists $headwords{$item};
+	}
+	$word = $w if $count == 1;
+	print $word, " ";
+    }
+    print "\n";
+}

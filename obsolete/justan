@@ -1,0 +1,141 @@
+#!/usr/bin/env perl
+
+use aasaan;
+use lughat;
+
+# justan (to seek), version 1.2
+#   by John Wiegley <johnw@gnu.org>
+#
+# This script uses the ASCII version of Steingass to make rapid
+# searches of any definition containing the requested term.  Input
+# encoding must be in Aaasaan format.
+#
+# Usage:
+#
+# > duust             # find all entries referring to "duust"
+# > =duust            # find only entries defining "duust"
+# > ?duust            # approximate searching
+# > /duust            # phonetic searching
+#
+# TODO: Support approximate searching (trying different short vowels),
+# phonetic searching (ignore differences between t and .t), fuzzy
+# searching (also ignore differences between a and aa, ii and ey,
+# etc), and best guess searching (ignore differences between m and n,
+# and between final double consonants, such as fahm vs. fahr).
+#
+# > !duust            # TODO: fuzzy searching
+# > *duust            # TODO: best guess searching
+
+sub print_definition {
+    my ($def, $printed) = @_;
+
+    my $word, @words = split ' ', $def;
+    my $i = 0, $width = 79;
+
+    print OUTPUT "\n" if $printed;
+
+    for $word (@words) {
+      AGAIN:
+	if ($i + 1 + length $word < $width) {
+	    print OUTPUT $word, " ";
+	    $i += 1 + length $word;
+	} else {
+	    $i = 0;
+	    print OUTPUT "\n";
+	    goto AGAIN;
+	}
+    }
+    print OUTPUT "\n";
+}
+
+if (-r "steingass.idx" and
+    ((stat(_))[9] > (stat("steingass.txt"))[9])) {
+    print "Loading index for Steingass ...\n";
+} else {
+    print "Building index for Steingass ...\n";
+}
+lughat::open ("steingass");
+
+print "> ";
+while (<STDIN>) {
+    chomp;
+    goto NEXT if /^\s*$/;
+    exit 0 if /^(quit|exit)$/;
+
+    open (OUTPUT, "| more");
+
+    if (/^help$/) {
+	print OUTPUT <<EOB;
+To search for a word, simply type that word using the Aasaan style of
+transliteration.  For example:
+  > `ilm
+This will find the definition of `ilm, as well as any other
+definitions that make reference to `ilm.  To find the definition only
+for the word itself, put an equal sign (=) in front of the word:
+  > =`ilm
+The equal sign means, "only define this word; no related definitions".
+
+To search approximately -- which assumes that you have the consonants
+correct, but the short vowels may be wrong -- put a question mark (?)
+in front of the word:
+  > ?tuliffu.z
+This will correctly find "talaffu.z", even though the short vowelling
+is wrong.  In fact, short vowels are not even necessary; you could
+have searched for "tlff.z".  (Note: The equal sign also works with
+these other search forms, so to find only the definition of talaffu.z,
+use "=?tlff.z").
+
+To search phonetically, which assumes only that you know the basic
+sound of the word, use a forward slash (/).  For example:
+  > /talafuz             # finds talaffu.z
+  > /sadaf
+This second query returns the definitions of ".sadf" (turning away),
+".sadaf" (seashell), ".sudaf" (a kind of bird) and "sadaf"
+(night-season).  Note that the first three of these words are written
+identically, which means that searching approximately using "?.sadaf"
+would also have found them.
+
+To see all entries on page 47, for example, use:
+  > page 47
+EOB
+        goto NEXT;
+    }
+    elsif (/^page\s+([0-9]+)/) {
+        my $def, $printed = 0;
+        for $def (split "\n", lughat::read_page ("steingass", $1)) {
+	    print_definition ($def, $printed);
+	    $printed = 1;
+	}
+        goto NEXT;
+    }
+
+    my ($exact, $approx, $phonetic) = (0, 0, 0);
+
+    $exact = 1, $_ = substr $_, 1 if /^=/;
+    $approx = 1, $_ = substr $_, 1 if /^\?/;
+    $approx = 1, $phonetic = 1, $_ = substr $_, 1 if /^\//;
+
+    if (! $approx) {
+	@query = ($_);
+    } else {
+	@query = aasaan::similar($_, $phonetic);
+    }
+
+    my $printed = 0;
+
+    for (@query) {
+	next if ! exists $lughat::index{$_};
+	for $loc (@{$lughat::index{$_}}) {
+	    my ($pos, $page) = @$loc;
+	    next if $exact and $pos < 0;
+	    print_definition (lughat::read ("steingass", abs $pos) .
+			      " [$page]\n", $printed);
+	    $printed = 1;
+	}
+    }
+ NEXT:
+    close OUTPUT;
+    print "> ";
+}
+
+lughat::close ("steingass");

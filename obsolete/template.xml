@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tablet>
+  <head>
+    <title>
+      <text>
+	<orig>
+	  <pers>Persian title</pers>
+	</orig>
+	<trans>
+	  <eng>English title</eng>
+	</trans>
+      </text>
+    </title>
+  </head>
+  <verse>
+    <text>
+      <orig>
+	<pers>Original text<noteref id="1"/>, in Aasaan format.</pers>
+      </orig>
+      <trans>
+	<eng><newpar/>Translation text here.</eng>
+      </trans>
+    </text>
+    <glossary>
+      <entry>
+	<word lang="A/P/T">headword</word>
+	<sing>optional singular</sing>
+	<def>definition</def>
+      </entry>
+    </glossary>
+    <refs>
+      <cite title="CODE" page="NUM,NUM-NUM">citation</cite>
+    </refs>
+    <notes>
+      <note id="1">text</note>
+    </notes>
+    <commentary>
+      A very simplified rendition of DocBook-style text goes here.
+    </commentary>
+  </verse>
+</tablet>

@@ -1,86 +1,87 @@
-enum arabic_token_t {
-  TOK_NONE,
+#ifndef _ARABIC_H
+#define _ARABIC_H
 
-  TOK_FIRST,
+namespace arabic {
+
+enum token_t {
+  NONE,
+
+  FIRST,
 
   // Arabic letters
-  TOK_ALIF,
-  TOK_BIH,
-  TOK_TIH,
-  TOK_THIH,
-  TOK_JIIM,
-  TOK_HIH_HUTII,
-  TOK_KHIH,
-  TOK_SIIN,
-  TOK_SHIIN,
-  TOK_DAAL,
-  TOK_DHAAL,
-  TOK_RIH,
-  TOK_ZIH,
-  TOK_SAAD,
-  TOK_THAAD,
-  TOK_TAYN,
-  TOK_DTHAYN,
-  TOK_AYN,
-  TOK_GHAYN,
-  TOK_FIH,
-  TOK_QAAF,
-  TOK_KAAF,
-  TOK_LAAM,
-  TOK_MIIM,
-  TOK_NUUN,
-  TOK_WAAW,
-  TOK_YIH,
-  TOK_ALIF_MAQSURA,
-  TOK_HIH,
-  TOK_TIH_MARBUTA,
-  TOK_HAMZA,
+  ALIF,
+  BIH,
+  TIH,
+  THIH,
+  JIIM,
+  HIH_HUTII,
+  KHIH,
+  SIIN,
+  SHIIN,
+  DAAL,
+  DHAAL,
+  RIH,
+  ZIH,
+  SAAD,
+  THAAD,
+  TAYN,
+  DTHAYN,
+  AYN,
+  GHAYN,
+  FIH,
+  QAAF,
+  KAAF,
+  LAAM,
+  MIIM,
+  NUUN,
+  WAAW,
+  YIH,
+  ALIF_MAQSURA,
+  HIH,
+  TIH_MARBUTA,
+  HAMZA,
 
   // Persian letters
-  TOK_PIH,
-  TOK_CHIH,
-  TOK_ZHIH,
-  TOK_GAAF,
+  PIH,
+  CHIH,
+  ZHIH,
+  GAAF,
 
-  TOK_LAST,
+  LAST,
 
-  TOK_PREFIX_AL,
-  TOK_PREFIX_BI,
-  TOK_PREFIX_MII,
-  TOK_SUFFIX_RAA,
-  TOK_SUFFIX_HAA,
-  TOK_SUFFIX_II,		// indefinite, or 2nd prs. copula
+  PREFIX_AL,
+  PREFIX_BI,
+  PREFIX_LI,
+  PREFIX_WA,
+  PREFIX_MII,
+  SUFFIX_RAA,
+  SUFFIX_HAA,
+  SUFFIX_II,		// indefinite, or 2nd prs. copula
 
-  TOK_PERIOD,
-  TOK_COMMA,
-  TOK_SEMICOLON,
-  TOK_COLON,
-  TOK_EXCLAM,
-  TOK_QUERY,
-  TOK_SPACE,
-  TOK_PARAGRAPH,
+  PERIOD,
+  COMMA,
+  SEMICOLON,
+  COLON,
+  EXCLAM,
+  QUERY,
+  SPACE,
+  PARAGRAPH,
 
-  TOK_LEFT_QUOTE,
-  TOK_RIGHT_QUOTE,
+  LEFT_QUOTE,
+  RIGHT_QUOTE,
 
-  TOK_SPACER,			// harmless "-"
+  SPACER,			// harmless "-"
 
 #ifdef MODE_STACK
-  TOK_PUSH_MODE,
-  TOK_POP_MODE,
+  PUSH_MODE,
+  POP_MODE,
 #endif
 
-  TOK_UNKNOWN,
-  TOK_END
+  UNKNOWN,
+  END
 };
 
-enum arabic_mode_t {
-  MODE_ARABIC,
-  MODE_PERSIAN
-};
-
-#define arabic_is_letter(let)				\
-  ((let).token > TOK_FIRST && (let).token < TOK_LAST)
+enum mode_t { ARABIC, PERSIAN };
 
 #define TF_NO_FLAGS 	  0x00000000
 
@@ -96,10 +97,6 @@ enum arabic_mode_t {
 #define TF_DEFECTIVE_ALIF 0x00000100
 #define TF_EXPLICIT       0x00000200
 
-#define arabic_is_sukun(let)				\
-  (! ((let).flags & (TF_FATHA | TF_KASRA |		\
-		     TF_DHAMMA | TF_DEFECTIVE_ALIF)))
-
 #define TF_TANWEEN    	  0x00000400
 #define TF_TANWEEN_ALIF	  0x00000800
 #define TF_SILENT_ALIF	  0x00001000
@@ -110,26 +107,39 @@ enum arabic_mode_t {
 #define TF_CAPITALIZE 	  0x00020000
 #define TF_BAA_KULAA 	  0x00040000
 
-struct arabic_letter {
-  arabic_token_t token;
+struct element_t {
+  token_t 	token;
   unsigned long flags;
 
-  arabic_letter(void) : token(TOK_NONE), flags(TF_NO_FLAGS) { }
-  arabic_letter(const arabic_letter& other)
+  element_t() : token(NONE), flags(TF_NO_FLAGS) { }
+  element_t(const element_t& other)
     : token(other.token), flags(other.flags) { }
-  arabic_letter(arabic_token_t tok, unsigned long fl)
+  element_t(token_t tok, unsigned long fl = TF_NO_FLAGS)
     : token(tok), flags(fl) { }
 
-  arabic_letter& operator=(const arabic_letter& other) {
+  element_t& operator=(const element_t& other) {
     token = other.token;
     flags = other.flags;
     return *this;
   }
 
-  bool operator==(const arabic_letter& other) {
+  bool operator==(const element_t& other) {
     return token == other.token && flags == other.flags;
   }
-  bool operator!=(const arabic_letter& other) {
+  bool operator!=(const element_t& other) {
     return ! (*this == other);
   }
 };
+
+inline bool is_letter(const element_t& elem) {
+  return elem.token > FIRST && elem.token < LAST;
+}
+
+inline bool is_sukun(const element_t& elem) {
+  return ! (elem.flags &
+	    (TF_FATHA | TF_KASRA | TF_DHAMMA | TF_DEFECTIVE_ALIF));
+}
+
+}
+
+#endif // _ARABIC_H

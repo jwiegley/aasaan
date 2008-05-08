@@ -6,13 +6,11 @@ import re
 import gc
 import string
 import bisect
-import readline
-#import gzip
+#import readline
+import gzip
 import cPickle
 
-from wxPython.wx import *
-from wxPython.html import *
-
+from wxPython import *
 from arabic import *
 from getopt import getopt
 
@@ -184,10 +182,10 @@ def find_word(word):
 
     return entries
 
-#if graphical:
-#    frame = wxFrame(None, -1, "Lughat 1.0")
-#    dlg = wxMessageDialog(frame, "Lughat is loading, please wait...",
-#                          "Loading...", wxICON_INFORMATION)
+if graphical:
+    frame = wxFrame(None, -1, "Lughat 1.0")
+    dlg = wxMessageDialog(frame, "Lughat is loading, please wait...",
+                          "Loading...", wxICON_INFORMATION)
 
 if os.path.exists('steingass.dat'):
     print "Reading index, please wait..."
@@ -247,8 +245,8 @@ else:
     cPickle.dump((headwords, subwords, pages, dictionary), data, true)
     data.close()
 
-#if graphical:
-#    dlg.Destroy()
+if graphical:
+    dlg.Destroy()
 
 if not graphical:
     sys.stdout.write("> ")
@@ -274,6 +272,9 @@ if not graphical:
 
     sys.exit(0)
 else:
+    from wxPython.wx import *
+    from wxPython.html import *
+
     #if not wxUSE_UNICODE:
     #    print "Sorry, wxPython was not built with Unicode support.",
     #    sys.exit(1)
@@ -352,7 +353,7 @@ else:
             self.html.SetPage("""<html>
 
 <p>To search for a word, simply type that word using the
-<a href="http://www.gci-net.com/users/j/johnw/TranslationTools.html#aasaan">Aasaan
+<a href="http://www.gci-net.com/users/j/johnw/TranslationTools.html\#aasaan">Aasaan
 style of transliteration</a>.  For example:</p>
 
 <pre>`ilm</pre>
