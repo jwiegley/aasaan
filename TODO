@@ -1,1 +1,9 @@
-- Feeding "maazii" into ./arabic --house causes a segmentation fault
+AASAAN  -*- mode: org; fill-column: 78 -*-
+
+#+STARTUP: overview
+#+ARCHIVE: TODO-OLD::
+#+SEQ_TODO: TODO(@) STARTED(@) WAITING(@) DELEGATED(@) | DONE(@) DEFERRED(@) CANCELLED(@) WONTFIX(@) WORKSFORME(@) INVALID(@) DUPLICATE(@) NOTE
+#+TAGS: FEATURE(f) DOCS(d) WEBSITE(w) BUILD(b)
+#+CATEGORY: Aasaan
+
+* TODO [#B] Feeding "maazii" into ./arabic --house causes a segmentation fault
